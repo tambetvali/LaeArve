@@ -12,7 +12,6 @@
 #   we click the links; Markdown does not contain menus, buttons, selectors and web-specific elements,
 #   and while it contains links, the link url is always given verbosely after the link itself.
 
-
 # Classificator: provides an user with a list of selections to choose from.
 #   HTML and dynamic HTML versions of the Laegna System will provide the following access:
 #   - Dropdown menu
