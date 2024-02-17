@@ -47,8 +47,8 @@ Function can yield chapters with title, subtitle, blocks and the cut-off block (
 
 Subdocuments:
 * For example table can be generated, each row containing a number, and when you click on it, number card will open with Q&A, or list of number cards open, each is a link to Q&A.
-** In Json, it's especially important that Q&A is separate page, object containing at least the properties "Question" and "Answer", perhaps also "Context". This is important consideration, whether your AI would allow the Context - otherwise, context can be in beginning of the Question, such as { Question: "Division context is whole numbers, always rounded down\\lfHow much is 3/2", Answer: "3/2 is 1." }, with original form: { Question: "How much is 3/2?", Answer: "1", Context: "Integer types, rounded down." }
-** Based on the same card, Q&A's can be generated automatically - especially, I might later implement a simple AI such as spaCy, which will have a list of example forms for given question or answer or context, such as "3+2", "How much is 3+2?", "Add 2 to 3 and give the answer.", "2 apples are added to 3 apples. How many apples are there?" - this will remove some of the hitbacks from the fact that AI cannot train well if the form is static, it would fall into very certain tracks. In such case, the card will give a default form, and link to dynamic generator of Q&A pairs.
+* * In Json, it's especially important that Q&A is separate page, object containing at least the properties "Question" and "Answer", perhaps also "Context". This is important consideration, whether your AI would allow the Context - otherwise, context can be in beginning of the Question, such as { Question: "Division context is whole numbers, always rounded down\\lfHow much is 3/2", Answer: "3/2 is 1." }, with original form: { Question: "How much is 3/2?", Answer: "1", Context: "Integer types, rounded down." }
+* * Based on the same card, Q&A's can be generated automatically - especially, I might later implement a simple AI such as spaCy, which will have a list of example forms for given question or answer or context, such as "3+2", "How much is 3+2?", "Add 2 to 3 and give the answer.", "2 apples are added to 3 apples. How many apples are there?" - this will remove some of the hitbacks from the fact that AI cannot train well if the form is static, it would fall into very certain tracks. In such case, the card will give a default form, and link to dynamic generator of Q&A pairs.
 
 Separate documents:
 * Links can be given to separate documents, which come down in the tree.
@@ -61,8 +61,8 @@ From properties, an user, especially an AI with some additional options might be
 
 Structural Tree is strict:
 * Documents
-** Subdocuments
-*** Documents down in the tree
+* * Subdocuments
+* * * Documents down in the tree
 
 User can have each chapter in separate page, not only the ones with link.
 
@@ -86,9 +86,9 @@ From user's perspective, they add to their AI:
 
 Given that their AI can learn only specific formats, such as Q&A, but not D (document), they can specify a search criteria:
 * For their chosen branch of the tree, with chosen subbranches:
-** They decide the card format: where there are multiple formats contained in the links, only cards of this format will be selected.
-** The page can always find them a new card to learn.
-** They can assign probabilities to branches, documents and card types and card branches, as cards are also in branches.
+* * They decide the card format: where there are multiple formats contained in the links, only cards of this format will be selected.
+* * The page can always find them a new card to learn.
+* * They can assign probabilities to branches, documents and card types and card branches, as cards are also in branches.
 
 The result: while Spider would be very slow to do all this, the Laegna Math Website is able to give them, from given branch, cards with specific types and content with specific probabilities, for example branch x is opened each time with 10% probability, and two types of cards inside with 50%:50% probability - users can add any numbers, but we use softmax to have the final probability associated with branch links (there are not too many branches) and configurations, for example:
 * 70% probability to get numbers up to 5 digits.

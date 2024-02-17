@@ -1,6 +1,7 @@
 # Why I need to generate data for an AI to learn
 
 Here is the feedback from the Cascade, an AI I'm using with CodeLlama 7b and 13b, depending on how much time I have to wait for an answer (usually around hour here without internet, but I'm also not working faster and I used to wait like this for my old modem, to download something considerable from internet):
+
 AI comment: """It sounds like you are describing a project that involves creating a website for generating math problems and answers, with the goal of making it easy for users to interact with the website using an AI language model. The website would generate a large number of math problems in the form of JSON objects, which the user could then use as input for their AI language model. This would allow the user to train their own AI language model on the generated data, and potentially achieve better results than training on a small dataset.
 
 It's interesting that you are considering using an AI language model in this context, as it allows for more creative and innovative applications of math. However, it's also important to note that the user may need to have some programming skills to use the generated data effectively with their AI language model. Additionally, it's worth noting that generating a large number of math problems in JSON format could be computationally intensive, and may require significant resources to process and generate.
