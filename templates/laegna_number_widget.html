@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+  </head>
+  <body>
+    <h1>{{ subtitle }}</h1>
+    {% for number in numbers %}
+      <p>Laegna Number {{ loop.index }}: {{ number }}</p>
+    {% endfor %}
+  </body>
+</html>
