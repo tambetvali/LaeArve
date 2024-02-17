@@ -49,7 +49,7 @@ Machine readable, autobrowseable, printable, and makes sense by format.
 
 > No top, left and right panels and bars, only the content.
 
-> Text, tables and chapters are easily formatted: I don't use if I cannot format.
+> Text, tables and chapters are easily formatted: I don't use the features if I cannot format them.
 
 ### Json
 

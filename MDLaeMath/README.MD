@@ -29,8 +29,8 @@ I agree that the following is possible:
 - My code tree might, in future, contain simple AI such as one which would learn to be a basic calculator, able to understand "1+2" and answer "3". This is for testing and fun, not essential part of it in sense of being ambitious to build a best AI inside this project.
 - My documentation might, in future, include how to set up an AI.
 - It will include documents and example code for doing so:
--- Documents would be rather for others, and they are not documentation of this project.
--- The example code reads my web page, and generates question answer pairs, documents, or question answer pairs related to context in a document. This is a *driver* or *client* of this project, and another person, inside another project, would benefit from this. They will understand, how my Json is structured and for them, this is the most trivial part of their task, it's only related to reading my code tree.
+- - Documents would be rather for others, and they are not documentation of this project.
+- - The example code reads my web page, and generates question answer pairs, documents, or question answer pairs related to context in a document. This is a *driver* or *client* of this project, and another person, inside another project, would benefit from this. They will understand, how my Json is structured and for them, this is the most trivial part of their task, it's only related to reading my code tree.
 
 ## Driver module
 
@@ -47,10 +47,15 @@ Now, it *does* contain the code to make such requests itself, but it *does not* 
 
 ## Concrete example
 
-Our user: opens CoLab account, downloads an AI model, and copy-pastes code to train this AI.
-Our user: they write this code: [for a in infinity: ai.fit(training_data_item)], where infinity might be following: [def infinity():\lf while True:\lf  yield get_random_item_from_database()].
-Our user: they create a function: get_random_item_from_database() with description: from database of columns ("Q": string, "A": string) fetch random item and return it as it is.
-Our system: has a web page, which is able to return something in form of ("Q": string, "A": string) indefinitely. Let's say the page http://laegna.math/?Q=1&A=1&D=0 would return Json in form of containing 10 objects, where there is an object called "Question" and an object called "Answer".
-Our system: while it's based on mathematics, for example generating things in form a+b=c such as 1+2=3 is trivial and does not take an AI, to generalize and study this, and to creatively use that fact, takes an AI. Thus, in the "Spyder", we need this class: fetch the Q&A from our system, and let them to create their object in form ("Q": string, "A": string).
-Our task: while our user might be really competent in their equivalent of ("Q": string, "A": string), and how to feed it to their AI, and they might have an AI readily made, they are not so competent in how our Json is structured and where to find them on our website. For this, we also create a very simple script which, while it could have access to our codebase and we easily use this, to import some files, but not the whole system, the user would rather be happy if they have some standard prefix code such as "Laegna.init()" and then they have the function with a return value: ("Question": string, "Answer": string); here, they would be programmers and for them, it's now trivial to replace "Question" with "Q" and "Answer" with "A" - now they have unlimited number of our cards, and they can use them as easily as the files in their hard drive or web-based drive.
+**Our user**: opens CoLab account, downloads an AI model, and copy-pastes code to train this AI.
+
+**Our user**: they write this code: [for a in infinity: ai.fit(training_data_item)], where infinity might be following: [def infinity():\lf while True:\lf  yield get_random_item_from_database()].
+
+**Our user**: they create a function: get_random_item_from_database() with description: from database of columns ("Q": string, "A": string) fetch random item and return it as it is.
+
+**Our system**: has a web page, which is able to return something in form of ("Q": string, "A": string) indefinitely. Let's say the page http://laegna.math/?Q=1&A=1&D=0 would return Json in form of containing 10 objects, where there is an object called "Question" and an object called "Answer".
+
+**Our system**: while it's based on mathematics, for example generating things in form a+b=c such as 1+2=3 is trivial and does not take an AI, to generalize and study this, and to creatively use that fact, takes an AI. Thus, in the "Spyder", we need this class: fetch the Q&A from our system, and let them to create their object in form ("Q": string, "A": string).
+
+**Our task**: while our user might be really competent in their equivalent of ("Q": string, "A": string), and how to feed it to their AI, and they might have an AI readily made, they are not so competent in how our Json is structured and where to find them on our website. For this, we also create a very simple script which, while it could have access to our codebase and we easily use this, to import some files, but not the whole system, the user would rather be happy if they have some standard prefix code such as "Laegna.init()" and then they have the function with a return value: ("Question": string, "Answer": string); here, they would be programmers and for them, it's now trivial to replace "Question" with "Q" and "Answer" with "A" - now they have unlimited number of our cards, and they can use them as easily as the files in their hard drive or web-based drive.
 The user: is now happily using Laegna math to understand my webpage, where while sometimes I write something either poetic or cryptic, using my own number system: but now they can ask their AI, finally, how much is something like "1+2" _in my math_, and this is step closer to doing innovations based on it.
