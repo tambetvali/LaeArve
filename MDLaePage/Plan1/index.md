@@ -1,0 +1,1 @@
+This folder contains my first plan. It was too complicated - Plan2 was too simple, an AI could not understand any more, how anybody would use it.
