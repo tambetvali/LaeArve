@@ -1,27 +1,11 @@
 from flask import Flask, render_template
 import json
 
-class LaegnaLink:
-    def __init__(self):
-        pass
-
-    def setLinkText(self, linktext = "A link"):
-        self.linktext = linktext
-
-    # Such as follow automatically, run AI task etc.
-    def setLinkAttribute(self, attr, value):
-        self.attr = value
-
-
 class LaegnaPageTemplate:
     def __init__(self, title, subtitle):
         self.title = title
         self.subtitle = subtitle
-        self.chapter = 
-        self.menu = []
-        self.body = ""
-        self.widgets = []
-    
+
     def add_to_menu(self, link, title):
         self.menu.append((link, title))
     
@@ -38,9 +22,6 @@ class LaegnaPageTemplate:
         json_data = {
             "title": self.title,
             "subtitle": self.subtitle,
-            "menu": self.menu,
-            "body": self.body,
-            "widgets": self.widgets
         }
         return json.dumps(json_data)
     

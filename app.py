@@ -13,9 +13,9 @@ def main():
     )
     
     # Add widgets or functionality as needed
-    template.add_to_menu("http://www.example.com/numbers?count=5", "Numbers")
+    template.add_to_menu("/numbers?count=5", "Numbers")
     template.set_body("This is a page about laegna numbers for AI and human student.")
-    template.add_widget(LaegnaNumberWidget())
+    template.add_widget(LaegnaNumberWidget(request.args))
     
     # Generate the HTML, JSON, or Markdown version of the page based on the requested format
     if request.args.get("format") == "markdown":
@@ -26,7 +26,7 @@ def main():
         return template.generate_html()
 
 @app.route("/numbers", methods=["GET"])
-def main():
+def numbers():
     # Create a new instance of the LaegnaNumberPageTemplate class with the appropriate title and subtitle
     template = LaegnaNumberWidget(request.args)
     

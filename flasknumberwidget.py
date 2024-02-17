@@ -10,9 +10,12 @@ def generate_numbers(count):
 
 # LaegnaNumberWidget.py
 class LaegnaNumberWidget():
-    def __init__(self, request.args):
+    def __init__(self, params):
         self.title = "Laegna Numbers"
         self.subtitle = "A widget for displaying laegna numbers"
+        self.params = params
+        #self.numbers = range(params.count)
+        self.subtitle = str(params)
     
     def generate_html(self):
         return render_template("laegna_numbers.html", title=self.title, subtitle=self.subtitle)
@@ -21,7 +24,7 @@ class LaegnaNumberWidget():
         json_data = {
             "title": self.title,
             "subtitle": self.subtitle,
-            "numbers": generate_numbers(5),
+            "numbers": generate_numbers(self.params.count),
         }
         return json.dumps(json_data)
     
