@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexing>
+ <paragraph index="12" node_type="writer">“” - String</paragraph>
+ <paragraph index="13" node_type="writer">‘’ - Letter</paragraph>
+ <paragraph index="14" node_type="writer">#Number</paragraph>
+ <paragraph index="15" node_type="writer">@Symbol</paragraph>
+ <paragraph index="18" node_type="writer">Prefix operator</paragraph>
+ <paragraph index="21" node_type="writer">Process ProcessName {</paragraph>
+ <paragraph index="23" node_type="writer">Start()?</paragraph>
+ <paragraph index="27" node_type="writer">}</paragraph>
+ <paragraph index="30" node_type="writer">Test x = Switch A = x.</paragraph>
+ <paragraph index="32" node_type="writer">{</paragraph>
+ <paragraph index="33" node_type="writer">  If A = 7:</paragraph>
+ <paragraph index="34" node_type="writer">  Else:</paragraph>
+ <paragraph index="35" node_type="writer">  Case 0:</paragraph>
+ <paragraph index="36" node_type="writer">  Test 0:</paragraph>
+ <paragraph index="38" node_type="writer">  Repeat.</paragraph>
+ <paragraph index="39" node_type="writer">  Break.</paragraph>
+ <paragraph index="40" node_type="writer">  Continue.</paragraph>
+ <paragraph index="41" node_type="writer">  Return False.</paragraph>
+ <paragraph index="43" node_type="writer">  Care for A, B, C.</paragraph>
+ <paragraph index="45" node_type="writer">  Destruct:</paragraph>
+ <paragraph index="47" node_type="writer">}</paragraph>
+</indexing>

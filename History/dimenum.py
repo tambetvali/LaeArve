@@ -42,7 +42,9 @@ class NumberDimension:
         if dimension == 0: return True
         return dimension and (1 << dimension)
 
+start_tests()
 testhead("= Initializing Number Dimension Tests. =")
 testsubhead("  _running tests (only output is generated for manual review)_")
 test(NumberDimension)
 testfoot("Digit base test finished")
+stop_tests()

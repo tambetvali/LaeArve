@@ -1,5 +1,6 @@
-import bases
-import roctaves
+from bases import DigitBase
+from octaves import ROctave
+from dim import 
 
 # Mirror would give a view to the number, where one can view the same number with different:
 # - Type is "NUM", "TXT", "HTML", "JSON", "SVG"
@@ -25,6 +26,6 @@ class Mirror:
 
 class NumberSystemDialect(Mirror):
     def __init__(self) -> None:
-        self.base = bases.DigitBase()
-        self.roctave = roctaves.ROctave()
+        self.base = DigitBase()
+        self.roctave = ROctave()
 

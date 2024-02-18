@@ -35,6 +35,9 @@ class ROctave:
             self.getBaseDim()
             log("User literal: " + str(self))
 
+class TOctave(ROctave):
+    pass
+
 testhead("= Initializing R Octaves. =")
 testsubhead("_running tests (only output is generated for manual review)_")
 test(ROctave)

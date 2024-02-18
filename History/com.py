@@ -13,7 +13,7 @@ class ComputationalDimension:
             self.sources = [ComputationalTarget(base, roctave)]
             self.sourceLinks = self.sources[0].link()
         self.base = bases.DigitBase(base)
-        self.roctave = roctaves.ROctave(roctave)
+        self.roctave = octaves.ROctave(roctave)
     
     # It would be messy to have too much input for the __init__, so we add the rest of the links later.
     def addSourceLink(self, source, sourceLink):

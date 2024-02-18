@@ -64,7 +64,7 @@ def testfoot(string = "", sender = "", level = 0):
 def test(cls):
     global testing
     if testing:
-        testable = cls(test = True)
+        testable = cls()
         testable.test()
         del(testable)
 

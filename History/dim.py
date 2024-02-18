@@ -1,5 +1,5 @@
 import bases
-import roctaves
+import octaves
 
 # Keep a little database of dimensions for each number
 class DimensionMap:

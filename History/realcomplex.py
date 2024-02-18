@@ -45,7 +45,9 @@ class SuperDimension:
                 self.setSuperdimension(testType, testRealComplex)
                 log("Base system: " + str(self))
 
+start_tests()
 testhead("= Initializing R Octaves. =")
 testsubhead("_running tests (only output is generated for manual review)_")
 test(SuperDimension)
 testfoot("Finished testing R Octaves")
+stop_tests()
