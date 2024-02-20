@@ -19,3 +19,19 @@ Since the syntax and semantics share valuable resources: 3 types of braces, a co
 
 So we do:
 - Some basic syntax, because all around the Laegna Programming Language an user and computer or AI should easily understand the code, not learning the local dialect very carefully, and there should be no contra-intuition or very incoherent things, like a business program, which uses minus instead of plus in one, rather critical position with special notation, and uses plus in everywhere else.
+
+## Function Declaration
+
+We get very close to python so let's use it's syntax highlighting, and file type "lae", in Markdown format such as "```python" is the file header, "```" is the footer, and it executes laegna interpreter. Then we just by default use any python highlighter - for markdown, they are not error sensitive and our own page can ignore this code being "python". Maybe later we have the highlighters, but I don't assume that you use my or any Markdown parser if you fork mine, you can just output the original count and leave the parser for special blocks, such as titles, code blocks, text and html - without this, the site won't function so you cannot remove, you have to replace it if refactoring, maybe disabling some features or adding your own; client, given it's normal html, should render some classes to accept your page, using AI and existing examples, or your code you submit, and somebody can check AI, given the forking functionality of GitHub, an user feature.
+
+```python
+# Exists class Test in logical, or create class Test in rather imperative look.
+Class Test.
+
+# Let's call "&" a personificator; $ is a variable constitution, such as declaring or allowing
+# as input.
+&Test.Sinus($angle, $unit):
+  pass
+
+
+```
