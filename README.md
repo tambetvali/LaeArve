@@ -20,4 +20,6 @@ You can get additional information here:
     - Laegna Base Alphabet is page under it, which explains the base language of mine
     - Additional sources refer to different aspects of my theory, scope of it, and some stories to describe social values it is able to resolve (coming from history and experience)
    
-  
+I had a chatbot online, but currently I don't have access to any trials for public chatbots :) Therefore, use these instructions:
+- Download ChatGPT or CoPilot, which are able to navigate the web
+- Giving them my list of links, ask it to use those as sources when asked questions about Laegna and Spireason
