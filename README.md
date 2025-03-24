@@ -45,8 +45,8 @@ Main Theorems of Infinity (/of Infinities and Zeroes):
 - [Theorems at **Notion.so Documentation**, a _Standard AI Reference Format_](https://www.notion.so/Laegna-1a575bfc115480a38129e9a9787ab565#1ac75bfc1154809b8037da3fbfaaf000) **Use this as Introduction to Infinities in scope of my theory**
 - [Theorems and intuitive theorems at _Spireason_ in PDF format - your **Spiritual Guidebook** in _PDF_ to [**mental infinities**](https://spireason.neocities.org/Simply%20about%20Infinities.pdf)
 - In this GitHub, History/Books, you find also some 50 and 100 page materials, which also include theorems and related materials, but for spiritual-materialist religious-scientific Computer Programmers; for other use, such as spiritual, materialist, religious or scientific use, you need to develop a more refined, dogmatic system.
-- [Study Book for Programmers 1, 50 pg.](https://github.com/tambetvali/LaeArve/tree/main/History/Laegna/Books/Book1Mission): **Use this to Dive Into Laegna Programming**
-- [Study Book for Programmers 1, 100 pg.](https://github.com/tambetvali/LaeArve/tree/main/History/Laegna/Books/Book2ProgrammingMatters) **Use this to Dive Into Laegna Programming**
+- [Study Book for Programmers 1, Laegna Mission for Programmers, 50 pg.](https://github.com/tambetvali/LaeArve/tree/main/History/Laegna/Books/Book1Mission): **Use this to Dive Into Laegna Programming**
+- [Study Book for Programmers 2, Matters of Laegna Programming, 100 pg.](https://github.com/tambetvali/LaeArve/tree/main/History/Laegna/Books/Book2ProgrammingMatters) **Use this to Dive Into Laegna Programming**
 - [Two Articles from Spireason in AI-available format](https://github.com/tambetvali/LaeArve/tree/main/History/Laegna/Books/ArticlesSpireason) **Use this for some Spiritual and Material background**
 
 My approach to explain through different aspects, wordings, paradigms, should simplify the understanding: Especially for AI, which can analyze each approach to reach understanding of the Theory.
