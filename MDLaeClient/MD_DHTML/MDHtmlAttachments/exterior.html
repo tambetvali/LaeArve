@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laegna Math Website</title>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+        }
+        table {
+            width: 100%;
+            height: 100%;
+            border-collapse: collapse;
+        }
+        .header, .footer {
+            height: 5%;
+            white-space: nowrap;
+        }
+        .page {
+            height: 90%;
+        }
+        .header .title {
+            width: calc(100% - 200px);
+            text-align: left;
+        }
+        .header .links {
+            width: 200px;
+            text-align: right;
+        }
+        .page .references, .page .content, .page .rightpane {
+            vertical-align: top;
+        }
+        .page .references, .page .rightpane {
+            width: 20%;
+        }
+        .page .content {
+            width: 60%;
+        }
+        p {
+            margin: 10px;
+            padding: 5px;
+        }
+        a {
+            text-decoration: none;
+            margin-right: 10px;
+        }
+        a.selected {
+            font-weight: bold;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <!-- Header -->
+        <tr class="header">
+            <td class="title">
+                &#x4DC0; &#x4DC1;
+                <span>Laegna Math Website</span>
+                <br>
+                <span>Let's dive into infinities and Laegna number system; an AI study center or documentation for human readers..</span>
+            </td>
+            <td class="links">
+                <a href="#" class="selected">DHTML</a>
+                <a href="#">HTML</a>
+                <a href="#">Markdown</a>
+                <a href="#">Json</a>
+            </td>
+        </tr>
+        <!-- Page -->
+        <tr class="page">
+            <td class="references">
+                <p>References Section</p>
+                <!-- Add structure of titles and links dynamically -->
+            </td>
+            <td class="content">
+                <p>Main Content Area</p>
+                <!-- Add content here -->
+            </td>
+            <td class="rightpane">
+                <p>Tools Section</p>
+                <!-- Add inputs and tools here -->
+            </td>
+        </tr>
+        <!-- Footer -->
+        <tr class="footer">
+            <td colspan="3">
+                <p>© 2025 Tambet Väli. All rights reserved. Licensed under CC BY-NC-SA 4.0.</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

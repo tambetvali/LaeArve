@@ -1,0 +1,56 @@
+# Before the HTML is dead..
+
+Let's remember the good old HTML rules, where DHTML *is not* HTML in it's original sense:
+* Open Source: the code is not encrypted, as this would be a compiler in projective space, where we concentrate on HTML; compilers do encrypt pages. Instead, HTML is containing tables, links, paragraphs and meaningful tags in a readable fashion. Dynamics cannot do this: you don't know what's already there in the box as you watch the source, and a reader, which wants some text-based content, can be left disappointed.
+* Txt: We remember txt as a programmer's dream: while .py, .cpp or .pas files are not txt files, they are plain txt files indeed; it's `Class Py(Txt)` if you know what I mean - while Py is strict format on it's own, and not Txt, you cannot find from Txt standard that it must be not Py. Simple as that. So we use Markdown: old good txt format, not only by specification, but we *really* could not make better art in plain text ASCII.
+
+# U2F*-graphics
+
+So you do it too: you fail purity when you download image icons, and think your landscape is very wild of all kinds of artificial solutions. You fail the case that even for humans, the old good symbols becoome more and more clear as they are used: it's not just a party icon, it's _that_ party.
+
+Talking about ART, we do ASCII art and the thing what Finnish Programmers and Hackers used to do, 20-liner 3D graphics for 320x240, while they already had 640x480 very well available. We do UTF-8-art, and while it's like infinity in relation to ASCII, where there are more and more symbols; as an exception we could use Latex - definitely I implement support for that if it's not involved in some Markdown library; right now today I try out the Markdown library: Mistune (you know I had to find this name now from downloads folder). With utf-8 we can do miracles: an AI will be a little bit visual and artistic, using those symbols; and we can do some string magic as well - handling little tiny png's, such as 4*4, is far from such; rather, let's make everything _meaningful_. Div tag, then, is to be used for _layout_, not some fancy way to emulate normal box; as a Buddhist and especially Laegna Buddhist, I'm not hitting when I talk: you would read me backwards that we need to do something with extensive use of Divs, but rather I'm talking full-forward, that we are not going to do extensive use of Divs, which is the opposite case: we are making ours better, not the one of others worse. Well the componentiation of values using Ponegate with it's 1/2 and 1/4 relations - this means, unbound variable relations - would help you if you did not get me, because here we are not going to fall into logic: we can talk short, simple and elegant, avoiding the suicide cases of "psychological help", which could happen, if we turn our sentences backwards.
+
+This way, while we are not _religious_ about your graphics, we rather design DHTML page as the main page for users, and the modern ASCII-art, where UTF-8 is a simple, always readable format replacing ASCII, we would do a generation for the old hackers, who used just what they had available, without any historic nostalgy - before 256, there was 128 and if we were to go use ASCII, we would not make the invariant: we would make invariant with the latter, a man limited by a typewriter and coca cola.
+
+# Meaningful Tags
+
+We consider, how our Tags look in text:
+- Use of Markdown beautifies
+- Use of HTML is quite cool
+
+For animations and graphics, using "p" or meaningful symbols in the world of linguistic structures is meaningless: for example, I use Tables for site structure technically, and it's not meaningful; but somehow, it won't break the rule: to use divs rather than p's for things like dropdown menus, because _layout_ inherently _divides_ and _connects_, so there are divisors and all kinds of relational mappings, such as formulaes of absolute positioning in div's, which _connect_ for example the parallel lines into invisible margins and paddings of align.
+
+For example, youtube video is not necessarily a paragraph and an AI, which wants to know paragraphs, would be somewhat misguided if they think textual paragraph is the name of the video; rather it is really media - and _media_, unlike _strong_ or _emphasized text_, is the meanings of an art: rather expressed by their form than the content, leading to infinity of questions as the symbols _resonate_ or answers as they _dissonate_ from their meaning, leaving us _bored_ - boredom, it's certain slow movement in regards to infinity; where in Laegna Language "slow" is otherwise position, and "fast" is rather posetion or lack of meaningful flow, failure of Taoist principles; as a Buddhist, I see Tao rather as meaningful world than certain religion, institution or belief system. This is why Bruce Lee would say "Tao of Jeet Kune Do", and why it's hard to separate Buddhist and Hinduist chakras; while it's hard to separate Buddha's and Plato's elements of 5: ether or space is rather also a Buddhist conception, and possibly Plato would think you are not necessarily messing with his concepts if you say "Space" instead, but he would talk about properties of Space in positive way; this is something like radioactivity: in the meaningful system the structures, not meeting, are still not in opposition with radiating their knowledge to each others; coming from the same source, or going into the same destination, they find the fitting structure of the same, somehow appearing from the two, when we put aside the causal connections, their existence and absense.
+
+Json is puristic for the AI as well, at least it's training system: we do like to also share the internal structures appearing in Server with the user, where they won't succeed in every case, having to pair Markdown with my special tags I add to this Txt format thus forming another type, which is not Markdown, where Markdown definitely is just this, a reader capable of some visualization and proper handling of market standards such as HTML tags inside.
+
+# Purified Implementation
+
+When I was young, I liked excess complexity - youth does not have a _goal_, but they have some _means_, so while I was criticised in excess, I really wanted to solve some complications where I did not see the deeper ones of Life, such as the inquisition.
+
+Now I want Simplicity and KISS:
+- __Simplicity principle__: we do not optimize, but we _simplify_ and _reuse_.
+- __KISS principle__: we keep it simple and stupid, as every complexity has cost.
+- __Scientific elegance__: the code as a formal system could be a science; we remove optimizations and replace them with elegance, achieving optimal speed.
+
+Then, we form a darkness around this header circle:
+- __Complexity__: someone will have to implement all our complexities, and create _complete theories_ based on _tautologies_, and long cycles of proofs, including similations of, for example, ponegative systems and lifelike ponegative systems.
+- __KICS__: to keep it complete and smart, means that every cost brings price.
+- __Practice__: is to make it robust, and to work on particulars; indeed it's a genius, who would optimize all of ours, and it's another science to do research about all the details.
+
+These two opposites, put them in order:
+- The initial version would lack the information for each special case, rather the specialist has a theme or vision of the system, to contemplate on particulars: I cannot write complex code before I _write down_ it's simple idea, even if I know it anyway; in this writing, the problems rather appear: the real world complexities, where the computer is not ideal, for example, nor the programming language, to understand me - then, with an AI, I would not achieve what I expected.
+- The final version, which is optimized and robust (we _do_ have optimizers) needs the simple formulations of the systems behind the practice; most people like to get an actual standard, and fulfill it point by point, where if they implement each part of the standard they inevitably reach the implementation of it's point. For example, to follow each command of a printer and implement a call in Assembler; then incorporate the obj from asm into their pas and again, go through each call in Assembler and implement the low-level function of a driver; now this is more idealistic man, who now creates the API of a driver: they _conceptually_ follow each point. This is simple and elegant, but what follows: somebody creates a framework to _systematize_ this driver, and only with a _system_ will somebody implement the actual _machine_ based on the _framework_. But the _machine_, now, exists in the real world: here it's the opposite of just following each rule or even designing something, but in design of a printer to accept commands, and in use of the book or _animation_, _machine_ of the _3D system_ with opengl _driver_ and microcode or shader or matrix _commands_ using _primitives_ or assembler of the implementation of primitives of commands for software or hardware abstraction layer; from top-down we seek the use of correct primitives; the _book_ or an _animation_: the user cannot be _simple_, but every moment are they actively using their _senses_ and _intents_, both of which connect to the real world; herein, also the creator of a _book_ or the _animation_, rather than following strict rules wants to do something _unique_, even if unique is the clarity of expression; they do something optimized and robust, which fits their place in the real world.
+
+# Json-purity
+
+We do want to implement Json as an accessible object structure; but also we don't want to create object model: we follow the Markdown as a general of types, and just like we would do with strings and lists, we can follow paragraphs and bullet lists.
+
+We add some tags:
+- First comment of a code, if coming at beginning, can be:
+  - Using something like `if self == __page__:`, we write to the box of the code, where in source view we would see the code instead; it writes Markdown, which is converted to frontal language of ?view=_aspect_.
+  - Using something like `if initializing():` we could build tables and assign tasks at initialization; then we would also get perhaps timed call or something.
+  - Using `if self == __generation__` the code would generate a list of generative states or samples, outputs of a dynamic system, where the number is given; when the number is None, list would not be used around the generated element.
+    - The generative itself is a generative code, which also has `__page__` for it's introduction and `__generation__` as repetition afterwards, where number of samples, like 5, is generated to the same page and "next page ->" link follows before the next chapter or block (the latter not always nice).
+- Header, before the first title, can contain invisible code in background.
+- States of variables are stored for the same view. While self is `__page__` or `__generation__`, or perhaps stage could be that; the _`state`_ is _`client`_, _`server`_ or _`spider`_, .
