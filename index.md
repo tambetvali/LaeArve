@@ -10,7 +10,7 @@ __LaeArve__: The name "LaeArve" comes from Laegna, Arv and e - where "Arv" in Es
 
 __Lae__: This is the shortcut for __Laegna__; we use this as prefix for all files, abbreviated to one capital letter __L__, except the Bot, which is rather the User than Laegna and especially which is not Server.
 
-__Lmframe__: Prefix the file with this if it's the framework of Laegna Math, __Laegna Math Framework__, providing common functionality.
+__Lmarch__: Prefix the file with this if it's the framework of Laegna Math, __Laegna Math Framework__, providing common functionality.
 
 __Lmc__: __Laegna Math Client__ prefix for files and classes.
 
