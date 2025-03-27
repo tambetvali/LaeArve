@@ -39,9 +39,10 @@ _Laegna Unit Circle_: Laegna unit circle is the unit ball with `r` and `d` range
 
 _Laegna Angle in Julia Programming Language:
 ```julia
-laeangle = 1 # angle "A"
-radians = laeangle / 4 # 0.25
-
+laeangle = 1 # angle "A" = 1
+gradians = laeangle * 100
+radians = gradians * π / 180
+sin(radians)
 ```
 
 _Representing Laegna Number Frequences in Binary System_, __Frequential Binden__: you need more than one digit for a digit, or more than one number for a number, to have frequential representation of a Laegna Number (optimized).

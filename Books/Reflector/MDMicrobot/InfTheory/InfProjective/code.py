@@ -1,43 +1,3 @@
-# Code of Theorem of Infinity (solving with programming)
-
-Lets try some inputs and outputs to resolve infinite number of digits after comma - while I don't know how much you know the math, you probably know without thinking how to use this "infinity"; especially easy is to reach infinity with this by only slight modification:
-
-Normally, digit 10 where there are only 9 digits in base-10 is considered "infinity".
-
-In our example, we add frequential support for digit 'A' as digit 1 in higher frequency, having thus modified the space into exponential space.
-
-__Latin__: Repeating sequence: 0.(3), Result: 0.3333333333333333
-For this number, __Laegna__ answer is the same.
-
-__Latin__: Repeating sequence: 0.(6), Result: 0.6666666666666666
-For this number, __Laegna__ answer is the same.
-
-__Latin__: Repeating sequence: 0.(9), Result: 1.0
-For this number, __Laegna__ answer is the same.
-
-__Latin__: Repeating sequence: 0.(142857), Result: 0.14285714285714285
-For this number, __Laegna__ answer is the same.
-
-__Latin__: Repeating sequence: 0.(A), Result: inf
-__Laegna__: Repeating sequence: 0.(A), Result: R0.1111111111111111 T0.0, where in Laegna system, space separates the R and T, where R is now
-
-We write the __Laegna__ on two lines as such (using still decimal system here as we need only one operation)
-
-- `E: 0.1111111111111111`
-- `A: 0.0000000000000000`
-
-This output exists as a relative number, not as a "final infinity" just equal between all cases, like _unknown_.
-
-__Latin__: Repeating sequence: 0.(0A), Result: inf
-__Laegna__: Repeating sequence: 0.(0A), Result: R0.010101010101010102 T0.0, where in Laegna system, space separates the R and T, where R is now
-more than zero, where the output would be otherwise infinite.
-
-- `E: 0.010101010101010102`
-- `A: 0.000000000000000000`
-
-## Python Code
-
-```python
 from fractions import Fraction
 
 def repeating_decimal_to_float(repeating_part: str) -> float:
@@ -103,4 +63,3 @@ for ex in examples:
         print("more than zero, where the output would be otherwise infinite.")
     else:
         print("For this number, Laegna answer is the same.")
-```
