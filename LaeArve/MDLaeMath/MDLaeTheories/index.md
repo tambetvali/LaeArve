@@ -43,7 +43,22 @@ __Theorem of Line Angles__: We measure the angle of edge of a circle, given a ra
 
 _Second Projective Theorem of Infinity_, __Spatial Correspondence Theorem of Infinities__: To measure precisely the repetitive logical cycles, where the values disappear into unknown limits (so that dividing by it, then multiplying gives "unknown"), one needs to zoom out the coordinate axe by exponential, accelerated number; such as having an object with properties of projection matrix, applying a function with linearized exponential or exponential-like (exponential) growth. For example, where adding 1 + 1/10 + 1/100 etc. into infinity would converge into single number, 1 + 10/1 + 100/1 etc. into infinity would converge in exponential space, into a single number.
 
-### __Geometric Theorems of Infinity__:
+### __Geometric Theorems of relational Infinity__:
+
+TODO: might include special versions here, given versions are from microcards, short and without details.
+
+__Relational Infinity__: this states that completely infinite subsystems can be measured in regards to their relative mappings.
+
+_First Geometric Theorem of Infinities_, __Infinities in Accelerations__: given that change of velocity is discrete, change of acceleration can not be measured within _X_, despite relating by numbers, such as tangent of x and y of change.
+
+_Second Geometric Theorem of Infinities_, __Point and curve angles__: point and curve angles are _relational_ in sense that they can be measured and compared, but their relative angle compares like zero and one, or like one and infinity: it proves the relational mappings of infinities.
+
+_Third Geometric Theorem of Infinities_, __Dimensionality of a Shape__: when we change dimensionality, such as from line to square with sides of equal length, we cannot measure the relative numbers within _X_ and they do have relative size such as the edge of a square can be compared to the length of the line.
+
+__X__: _X_ is the finite number space.
+
+### __Infinity Mapping__:
+
 Three main theorems of projective infinity to resolve projective geometry.
 
 _Geometric Theorem of Infinity_, __Theorem of Existence of Geometrically Relative Infinities__: In geometry, infinities exist, which are relative in size in regards to each others, but infinite in number of points one can map to such shape, or divisor needed to measure the angle. While still infinite, it also has a relation.
