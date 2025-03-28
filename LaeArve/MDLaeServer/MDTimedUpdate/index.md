@@ -1,0 +1,3 @@
+# Timed update
+
+Chronologically, update script should run every hour - basically, when it finished, it should wait for some time (load-balance for unknown context), then start again; perhaps each time when it finishes, it sets the new calendar with given time. Perhaps every nth time it runs one or another task inside it's process, but I don't think we need real-time calendar, because let's coexist with the time-inefficiency bugs for the scientific material; it's not a computer game and we don't implement every bell and whistle for that purpose, it's rather a basis for subsequent, static computer games.

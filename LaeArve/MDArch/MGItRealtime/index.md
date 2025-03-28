@@ -1,0 +1,20 @@
+# Realtime interface for Git
+
+Users can collaborate and provide us:
+- Free models of AI, which are fine-tuned on our content; following fine-tuning might appear. Commercial product providers can submit their trials, free versions, and cost estimations or price lists, even if those do not fit our licences; if they don't provide enough free functionality, might them advertise for money.
+  - Their models are associated with certain set of files, where each commit must hash the file and if necessary, the context used.
+  - When commits are detected, before the final version is accepted by the future autobot, which should set some versions as final and not control the commitment, all the fine-tunings and embeddings are up-to-date and provide with meaningful databases; they would also have cost: for the ones with higher cost, permanent link to Git version is added.
+  - Users download old versions and branch them, when they do manual or automatic additions or fine-tune with other content; the version might move further in time and appear another time when it's fine-tuned with current content.
+- Free models for embeddings are used by followers, who could create Document embeddings for the site or it's parts or useful generations; they can specify each random seed for dynamic generators.
+  - When we update dynamic generators, we add items like "delete item", instead of removing it from the list of generation: they are removed from the appearing list. For example if the training card random selector would remove some cards, each time the given sequence is generated and the random seed updated by that user; they can download correct version of embeddings or fine-tunings and go on, while having updated some content. Smarter finetuner is already ponegative: it has state information and it learns that now, the content is updated; for example, meanwhile the tasks were submitted, now the solutions - an AI would understand, given ponegative relations of projective axe correcture with real axe, where we see R and T are really optimized to recognize those properties in themselves over time; when user adds such timelines from Git accounts, development and Jira logs etc., they could run each history line: starting from beginning, for example of dynamic generator, which was followed by more and more passes where advanced training and expensive models were developed more each time: they run all this history, and reaching _now_, they have merged the input sources and continue real time or with years of lagging, or merging manually from another version of provider.
+- Manual entries are entered through wiki.
+
+# History updates
+
+If the user is able to talk with their GPT, history is normal ponegative and it can be reflected.
+
+When context is updated, or enough generations passed for repeated lessons:
+- That history is assigned a context identifier, not necessarily stopping the old history feed.
+- It will run with updated history.
+- It will always use this context identifier, such as new init date and time with microinteger for the version started at that date and time - time for some seconds to future or past could be used if many updates are started in one fast script, thus we use dynamic timer: thus as monochrone never walks back it time, our walks into future and averages little back in time, to balance the preciseness of times and their orders; so it's subsequently: a number of identification and time in one unit, for example imprecise time in first 4, and autoincrement (not decrement for historical purposes) id at last 4.
+- The histories, which get new content identifiers or hashes, will be ran, and new context will be used if it was assigned. It's re-ran after many pages of new information, to keep the optimizer actively balanced, running in the same direction (it's then rther _meaningful_).

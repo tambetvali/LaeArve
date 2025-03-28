@@ -1,5 +1,10 @@
 # Markdown preformatting
 
+__Notice__: everything in folder "Reflector" itself is meant to
+be a little fractal counterpart of the main site, containing
+also more primitive versions of generators - for simpler bot
+has to understand at least it's own code.
+
 Initial markdowns act a little bit like templates or widgets.
 
 ## Code preexecution
