@@ -28,6 +28,17 @@ Discrete mappings:
 - Adding each digit, we add dimension.
 - Having limited, discrete number of those digits, even having each external component for infinity: relatively, with E we approach infinity, where the angle is equal and also for E we expect, for symmetric axes, to have two times less relative input.
 
+For example consider:
+
+```
+   E
+AAAAEEAE
+```
+
+Random digit is added just above A - here, we add particular value to particular dimension fragment, and we can do this randomly and indefinitely given: discrete numbers, when keeping all their proportions, map infinity symmetries in kind of perfect way.
+
+Notice that when Laegna Numbers are linear and Z and Y are in our case even too perfectly assigned to both ends of this line, where it extends: we can zoom Z and Y at each digit, for example we can have precision digits and superfrequential multidigit digits. This is multidimensional and we don't map it as prime number, because it's too trivial how to make it from it's components - we would have more than one word or letter for the same combination, and for example combinatorics would be impossible demanding of higher number spaces, without linearizing. So it's optimal if you add digits, visibly. Still, if you use the digit-wise mapping, for example you get negative number properties into positive numbers; you can see that either you have dimensions or not: dimensions appear. We cannot say so clearly, what is a "direction": rather, the dimensions are complete if they create dimensional properties to linear number, and we see the complexity of it; we could live in 2D, even 1D or point world (which could still frequentially approach itself from different directions, as it can create some value space dimensions in beginning, given there are more than 0 values, and in real-complex space, even 0 dimensions would eventually have some precision). The dimensionality is relative to something; while I don't want to say there is nothing substantial in a dimension being weak - for example, the dimensional interaction could be weaker and not forming 3D or higher dimensionality; I'm saying that in space where dimension has shape, those shapes are _topologically identical_, having all the same connections, relations, even laws of nature [i.e. the same nature].
+
 ## Stock Market Theory
 
 While you have the statistical calculations of things like growth factors, you might have combined all the ways you can see the equation, and tried each combination of positions of three variables, solving equations of how to put them on both sides of the equation mark.
