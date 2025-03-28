@@ -10,6 +10,8 @@ AI: The CC BY-NC-SA license allows creators to share their work with others as t
 
 # AI interpretation for the Licence
 
+Notice: here it's quite a long discussion, where I'm trying to understand from the AI, whether the law is to be interpreted rather _technically_ or _substantially_. While I'm sure that AI training is _Educational Use_ unless perhaps when it's the commercial work of this AI or when the AI has unreasonable costs and responsibilities rather than it's good place in society - still the answers do not reflect my personal tastes so much, while I like that the definition of "commercial" might depend on relevant parameters by the Law.
+
 > can we ask money for commercial use?
 
 In general, it's not appropriate to solicit money from others for the purpose of commercial use unless there are legal and ethical grounds for doing so. The CC BY-NC-SA license you provided specifically allows creators to share their work with others as they see fit (by means of free use, modification, adaptation, and distribution) without any conditions attached other than fair use principles. In such a case, the money could be used to cover costs associated with commercial use or to pay for legal fees in exchange for the right to use the content. However, this should always be done with consideration for the original creator's rights and not as an inducement for commercial activity.
