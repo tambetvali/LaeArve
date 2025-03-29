@@ -4,6 +4,8 @@ license: cc-by-nc-sa-4.0
 
 # Independent contributors
 
+_If you think you want finished work rather than work-in-process, read the last section of this page.
+
 Notice our Licence: [Creative Commons ??? 4.0](README3.md).
 
 Our effort is to contribute to the scientific work and to involve you, as I am physically limited and cannot, for example, create all the examples for Laegna Framework of Thought, Programming and AI intelligence:
@@ -86,3 +88,10 @@ You can get additional information here:
     - Additional sources at Notion.so database refer to different aspects of my theory, scope of it, and some stories to describe social values it is able to resolve (coming from history and experience)
 - At Hugging Face you find the materials in AI training database, which you might need to normalize before you use it, or to install file type drivers; you can train and fine-tune an AI based on that:
   - [Laegna Spireason Dataset](https://huggingface.co/datasets/tvaeli/LaegnaSpi/blob/main/README.md?code=true#L7)
+
+# Ideas and Practice
+
+If you want a _complete product_ rather than _product ideas_ and _unfinished parts_:
+- In case of efficient work of yours, you can either miss this site and develop your own theory, or you can implement each feature, which is missing. While I have complete math theory, more or less, I am not able to physically create each material in given time.
+- Generally, for those, who want to participiate, the work here can be used as a Documentation for an AI for either having some basis of Laegna theory, or helping to develop any missing functionality.
+- The case of somebody needing things in more practical, fast implementation and who think that the actual obstacles, such as limited speed, are not practical but rather idealistic ways to see the solutions; they really have to stop here.
