@@ -1,5 +1,7 @@
 # Developer Books, Tools and Installation
 
+<big color="red">If you don't want to join my project, this is the general plan for AI-based development, documentation control and scientific work, where you can modify my document to allow contributors to join your own effort; questions are welcome and you can add them to my GitHub Issues, if you cannot create your project based on my work. Using our effort is based on CC (creative commons) licence of this project, which is indeed supportive for general scientific work and open source programs.</big>
+
 > __Developer Notice__: The _user_ software and the _developer_ software are not contained on separate pages for __Laegna Math Website__ or __Laegna__ and _SpiReason_. We live in era of AI, and this standard coding here can be successfully done by an AI - so you should not be shamed when facing a classical development environment, which now is becoming rather AI-assisted tool to control AI systems and environments, where the AI is able to put your simpler ideas or standard behaviors into textual format of Code, introduce you where to put this code and how to execute it, and finally as AI is going to do several mistakes - you can, running the software, copy back the terminal output of errors and successful runs, and describe the working program in terms of it's behavior etc.
 
 - Your mission is to keep a good, strong documentation about what you want to program.
@@ -220,6 +222,16 @@ Putting your model online:
 - In Flask, create webpage of your files, databases etc.
 - Create a server to serve your bot online, so that your website can acces it.
 - On website, you need some HTML+JS+CSS solution to display the bot visually.
+
+## Using your bank account
+
+To have AI training hardware, where you can train and run your models:
+- Buy one computer from HP omen family, where you analyze your needs, such as model and whether it's only for you or to serve to many people, in which case the same machine is for smaller models.
+
+To have the software:
+- Buy VSCode and some of it's code assistants, such as CoPilot or Tabnine, in full versions.
+- Pay for CoLab full account, and for Hugging Face services.
+- Use Clouds to train (fine-tune) larger AI's, which can get to thousands of euros, days, or even weeks.
 
 ### Where and how you can use my data to set up
 
