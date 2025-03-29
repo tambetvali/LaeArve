@@ -1,6 +1,8 @@
 ---
-license: [cc-by-nc-sa-4.0](README3.md)
+license: cc-by-nc-sa-4.0
 ---
+
+[cc-by-nc-sa-4.0](/README3.md)
 
 # Independent contributors
 
