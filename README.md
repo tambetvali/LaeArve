@@ -4,6 +4,8 @@ license: cc-by-nc-sa-4.0
 
 # Independent contributors
 
+Notice our Licence: [Creative Commons ??? 4.0](README3.md).
+
 Our effort is to contribute to the scientific work and to involve you, as I am physically limited and cannot, for example, create all the examples for Laegna Framework of Thought, Programming and AI intelligence:
 - Go to our developer page at [these GitHub source folders](/Books/DevBooks/) and use the given manual as _user_, _administrator_ or _developer_ or as an _independent contributor_:
   - __User__: download a Bot Framework, such as Jan, GPT4All or LM Studio, with Jan being a good end-user software for basic chat, GPT4All being a manager of your documentation or book and your assistant in giving explanations, and LM Studio a powerful tool for AI Service and Administration.
