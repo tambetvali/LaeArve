@@ -4,6 +4,8 @@ license: cc-by-nc-sa-4.0
 
 [cc-by-nc-sa-4.0](/README3.md)
 
+<big><big><big>[ENTER =>](#introduction)</big></big></big>
+
 # Independent contributors
 
 _If you think you want finished work rather than work-in-process, read the last section of this page.
