@@ -20,6 +20,12 @@ Imagine a program:
 
 The logic your AI would need on high level to decide the architecture, is not much more complex than the amount of attention needed for a particular detail. Thus, you need one AI like this to generate your general architectures, where the other AI would be the "junior programmers" of yours: but as you got all the actual information, like libraries, from the AI, you can also implement some particulars.
 
+__Name__:
+
+My bot's name is the following:
+
+_Senior Developer of Laegna Math Website (1B)_
+
 __Model File__:
 
 - _Llama-3.2-1B-Instruct-Q4_0.gguf_
@@ -79,3 +85,9 @@ __Following Parameters__:
 You have a set of numeric optimization parameters:
 - This is optimized for the stupid kind of bot we have.
 - It does not seem too intelligent, but it's doing *at least something* with documents: you might understand why you need MDMicroBot, even if it's also good for humans for introduction, with it's clear wording.
+
+## The Junior Developer AI
+
+Use standard model, you should use the same model in other instance, where it's more or less just instructed to implement what you say.
+
+Piece by piece, give it the architecture made by the Head Developer Model and you have gained some additional attention (attention is the problem why it would not create everything in one go, but rather work separately on architecture and the tasks).

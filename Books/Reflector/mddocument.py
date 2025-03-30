@@ -51,8 +51,27 @@
 # if it's a simple Laegna concept, you are
 # welcome to contain it here.
 
-class LaeDocument:
+# Find UserDict.py to understand the internals of emulated dictionary.
+
+# Parent class, which contains blocks and documents.
+class LaeBlock:
+
+class LaeMarkdown(LaeBlock):
+
+class LaeDocument(LaeBlock):
     def __init__(self):
         pass
 
-    
+    def __call__(self, *args, **kwds):
+        for a in range(0, 8):
+            yield a
+
+    def __len__(self): return len(self.data)
+    def __getitem__(self, key):
+        if key in self.data:
+            return self.data[key]
+        if hasattr(self.__class__, "__missing__"):
+            return self.__class__.__missing__(self, key)
+        raise KeyError(key)
+    def __setitem__(self, key, item): self.data[key] = item
+    def __delitem__(self, key): del self.data[key]
