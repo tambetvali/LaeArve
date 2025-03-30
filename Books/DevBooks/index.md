@@ -466,6 +466,16 @@ GIM Wittmund (Ost-Fiesland; Lower Saxony; Germany)
 
 _Zero books are included as they are basically the only books on quantitative infinity I found_
 
+__programming-pytorch-for-deep-learning-creating-and-deploying-deep-learning-applications.pdf__: O'REILLY' _Programming PyTorch for Deep Learning_
+
+_Creating and Deploying Deep Learning Applications_
+
+Ian Pointer
+
+__Deep Learning with Python.pdf__: _Deep Learning with Python_ SECOND EDITION
+FRANÇOIS CHOLLET - MANNING
+_SHELTER ISLAND_
+
 # Additional books
 
 Some repeat: you can read them yourself.
