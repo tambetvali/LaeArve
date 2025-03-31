@@ -6,11 +6,11 @@
 1. Create mapping of Decimal System, where you have a special __str__ function despite otherwise it's a normal Integer
    - str function returns "U" if number is zero.
    - if it's above zero, it first adds 1, then digitvice reverses the digit value space: each number in each digit position x from 0-9 is replaced with y, which equals 9-x, so that 0 maps to 9, 1 maps to 8, -123 maps in whole integer to -987.
--- if it's a positive number, simply add 1.
+-- if it's a positive number, simply add 1 and do not reverse the digit mapping (I added this for the AI, the "don't" part).
 
    1. The resulting class behaves like an integer, much the way UserDict maps dictionaries, this class maps integers.
 
-2. Create class using the decimal mapping class described in task 1, which would read a source of basic math lessons with positive and negative integers, for example "jane did buy 5 apples. how many apples does jane have now?" It will read all the integers into decimal mapping class instance, get their str value, and textually replace the str value; it would produce Markdown with all the lessons in ankh-compatible format, and finally feed them to ankh and produce new sets of lessons.
+2. Create class using the decimal mapping class described in task 1, which would read a source of basic math lessons with positive and negative integers, for example "jane did buy 5 apples. how many apples does jane have now?" It will read all the integers into decimal mapping class instance, get their str value, and textually replace the str value; it would produce Markdown with all the lessons in anki-compatible format, and finally feed them to anki and produce new sets of lessons.
   - If not given, AI will autodownload some lessons from Hugging Face or Kaggle, ensuring the dataset is working and compatible with client's plans, for example how many, how big cards to have and in which format - Q&A, or Q&A&D, Question&Answer&Context or Document.
 
 3. It would train the AI: download proper model from Hugging Face, fit.

@@ -6,7 +6,7 @@ You need primarily this, where you don't need to implement others unless you wan
 
 1. Take your collection of Math cards with Question and correct Answer.
 2. Search for all the numbers, and replaced them with Laegna decimal numbers: where you have some types to choose from, use the best type (UIOAEV or even IOAE, the 4) and replace the card content.
-3. Return the result in ankh format, directly to your Spider, then a card-Spider, or through web interface where user can download any of our formats, especially Anki or Markdown required to generate it with Genanki generator, which takes you Markdown we use internally, generates the cards - with some programs, you can view the cards and make lessons for yourself, where you need to answer in Laegna numbers. If you create a server, you can download such collections.
+3. Return the result in anki format, directly to your Spider, then a card-Spider, or through web interface where user can download any of our formats, especially Anki or Markdown required to generate it with Genanki generator, which takes you Markdown we use internally, generates the cards - with some programs, you can view the cards and make lessons for yourself, where you need to answer in Laegna numbers. If you create a server, you can download such collections.
   - You serve the web with Flask, and in regards to this website use it's relative position in Books, if you want to share it with me and my readers or followers, otherwise the folder is your own content folder or database or memory.
 
 ## Original Card
