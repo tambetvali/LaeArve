@@ -11,6 +11,9 @@ This is one simple product, which conveys the whole meaning of Laegna Math Websi
 - [Laegna Fantasy Website](Books/Preliminary/LaegnaFantasy/index.md)
 - [Laegna Fantasy Root Folder](Books/Preliminary/LaegnaFantasy/)
 
+This task should be so simple that an AI like ChatGPT should be able to reproduce it, even if not as one piece, then as separate tasks:
+- [Laegna Fantasy Root Folder](History/Laegna/FirstVersions)
+
 ## Theory of Infinities
 
 <big><big><big>[ENTER =>](#introduction)</big></big></big>
