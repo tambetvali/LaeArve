@@ -4,6 +4,11 @@ Notice: Code Assistant systems, given the relevant parts of this, could implemen
 - For this, you have this version: [History Recording of First Version of Laegna Preliminary School / Laegna Fantasy](History/Laegna/FirstVersions/LaegnaFantasy).
 - With the first version, you use the AI task.
 
+This task will remain, without implementation, in Historic notes:
+- [Simplest Implementation for ChatGPT automatic implementation](/History/Laegna/FirstVersions/Preliminary/aitask.md)
+- [Simplest Implementation for ChatGPT automatic implementation - Followup](/History/Laegna/FirstVersions/Preliminary/followup.md)
+
+
 This book implements preliminary processing of pre-Laegna numbers into an index system we are going to need.
 
 We are going to:
