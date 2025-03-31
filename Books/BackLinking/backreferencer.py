@@ -16,5 +16,4 @@
 
 import mistune
 
-mistune.Markdown("index.md")
-
+a = mistune.Markdown("index.md")

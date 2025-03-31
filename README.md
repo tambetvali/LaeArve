@@ -4,6 +4,15 @@ license: cc-by-nc-sa-4.0
 
 [cc-by-nc-sa-4.0](/README3.md)
 
+# Laegna Fantasy: Laegna Math Website
+
+This is one simple product, which conveys the whole meaning of Laegna Math Website into a single, simple expression: convert Decimal numbers to their Frequential counterparts and generate AI study cards using Free Software.
+
+- [Laegna Fantasy Website](Books/Preliminary/LaegnaFantasy/index.md)
+- [Laegna Fantasy Root Folder](Books/Preliminary/LaegnaFantasy/)
+
+## Theory of Infinities
+
 <big><big><big>[ENTER =>](#introduction)</big></big></big>
 
 # Independent contributors

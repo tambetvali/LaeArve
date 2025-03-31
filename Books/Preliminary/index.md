@@ -1,4 +1,4 @@
-# Laegna Preliminary School
+# Laedeck: Laegna Preliminary School
 
 This book implements preliminary processing of pre-Laegna numbers into an index system we are going to need.
 
