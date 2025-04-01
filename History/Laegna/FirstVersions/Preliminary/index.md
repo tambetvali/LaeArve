@@ -1,4 +1,7 @@
+
 # Laedeck: Laegna Preliminary School
+
+Important: this is DIY package with AI task and generation examples (typically with CoPilot or ChatGPT).
 
 Notice: Code Assistant systems, given the relevant parts of this, could implement it as a whole.
 - For this, you have this version: [History Recording of First Version of Laegna Preliminary School / Laegna Fantasy](History/Laegna/FirstVersions/LaegnaFantasy).

@@ -8,8 +8,8 @@ license: cc-by-nc-sa-4.0
 
 This is one simple product, which conveys the whole meaning of Laegna Math Website into a single, simple expression: convert Decimal numbers to their Frequential counterparts and generate AI study cards using Free Software.
 
-- [Laegna Fantasy Website](Books/Preliminary/LaegnaFantasy/index.md)
-- [Laegna Fantasy Root Folder](Books/Preliminary/LaegnaFantasy/)
+- [Laegna Fantasy Website](Books/LaegnaNumber/Preliminary/LaegnaFantasy/index.md)
+- [Laegna Fantasy Root Folder](Books/LaegnaNumber/Preliminary/LaegnaFantasy/)
 
 This task should be so simple that an AI like ChatGPT should be able to reproduce it, even if not as one piece, then as separate tasks:
 - [Laegna Fantasy Root Folder](History/Laegna/FirstVersions)

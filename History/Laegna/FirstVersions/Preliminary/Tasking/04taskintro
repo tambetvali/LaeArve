@@ -1,0 +1,35 @@
+# Create the documentation
+
+With these tasks I made: democracy.md.
+
+## For example, task I gave an AI for Documentation:
+
+Then, give me an article for using VSCode as an end user:
+
+= First part
+
+In modern world, one, especially when they have to do with science or simple activities, even such as cooking, would need to collect documents, questions and answers and train Artificial Intelligence to meet their needs, or contribute their documents to collective.
+
+= Second part
+
+Do not imagine that VSCode is advanced programmer's IDE: it's rather a program with specific capabilities.
+- You can create Work Environments, and projects inside: confortably, the project is folder in your file system, but it also extends to track versions.
+- On side of VSCode, there is the explorer, one which basically is known from file save and open and explorer view, or file browsers in Linux.
+- There is text editor, much like advanced Notepad: but with more features. Additionally, you can use programs inside to edit more types of files.
+- Can VSCode have image, like png, visual html and wysiwyg plugins, even pdf, docx, excel editors inside?
+
+= Third part
+
+With VSCode, you have the most advanced documentation control. In this part you need AI: you can install Cascade, Intellisense and other AI Assistants in VSCode, and maybe as plain user you rather need not instruct-class, but some more general AI, depending on spiritual, artistic or creative documents you have (CodeLlama, for example, behaves like an atheist if you have too spiritual contemplation on your code). For AI assistance, you need to have: Jan (use small, fast model to non-referenced chats), GPT4All (make it watch your VSCode folders, use larger models) and LM Studio (able to serve your models and embeddings and manage your model database). With each AI you have some problems: install biggest model into VSCode assistance, such as 7b, 13b and bigger; install some 1-2B models to GPT4All and LM Studio, and 1-1.5B to Jan, which does not see docs nor internet, thus does not need attention, but while it does not _need_ attention, it would be to _provide_ one: it talks to you while others are busy.
+
+## Second Article
+
+Also the second part:
+- In old times, scientists used to have some small piece of code for rest of their life, and most users had little collections of DOS commands to execute their favorite games and programs.
+  - Nobody had big problem with this
+
+In VSCode:
+- You can work with documentation
+- Once you have some code, you can work with Markdown to introduce and explain it, py and other code files to execute it, and Jupyter to do it in gradual, kind of visual way
+
+It's convenient to have the ecosystem, where you can have documents and programs: for your specific AI model, currently you need a program, but you can also use the file system functionality and simply generate at some system online, and copy to your working folder. In each case, with VSCode you can organize, versionize / backup, and create your documentations and materials, but also create small programs into py files, give them descriptions, and execute - such programs, as you mainly work with APIs (access methods) and not the content, which is more handled by an AI such as ChatGPT or your CoPilot code assistant, are easy to execute: an API can contain a few convenient things, like put the name of the model at specific line, and automations would help with the rest, the AI would even help to choose the model.
