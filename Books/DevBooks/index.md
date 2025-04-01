@@ -478,6 +478,10 @@ _SHELTER ISLAND_
 
 __model_theory_seams.pdf__: _AN INTRODUCTION TO MODEL THEORY_ by Pablo Cubides Kovacsics
 
+__mistune-lepture-com-en-v0.8.4.pdf__: mistune Documentation
+Release 0.8.4
+Hsiaoming Yang
+
 # Additional books
 
 Some repeat: you can read them yourself.
