@@ -28,3 +28,5 @@ I really want to install packages, not just mere web spiders who never know thei
 It's still on track with it's favourite products: I looked inside, there is tensorflow code. In the whole book: no tensorflow code. Understand I _did_ select tools.
 
 And again some Hugging Face manual ..I SAID they cannot do pdf's and downloadable HTML collections, I don't want to search their automatic tools at all, I really want a download link for _everythin_. I don't want to even check for this. If I'm doing it offline, don't run with your services and "expectations", simpler tools would do, if they are properly developed into proper KISS projects and know offline people who look for download link, not your fancy way for more closed source text and fancy compilator links.
+
+how to download this torch documentation? if I asked for download, I mean it literally and it's not the docs page
