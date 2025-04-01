@@ -476,6 +476,8 @@ __Deep Learning with Python.pdf__: _Deep Learning with Python_ SECOND EDITION
 FRANÇOIS CHOLLET - MANNING
 _SHELTER ISLAND_
 
+__model_theory_seams.pdf__: _AN INTRODUCTION TO MODEL THEORY_ by Pablo Cubides Kovacsics
+
 # Additional books
 
 Some repeat: you can read them yourself.
