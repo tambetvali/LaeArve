@@ -24,3 +24,5 @@ The problem is: people generally like their resources, generally features.
 I really want to install packages, not just mere web spiders who never know their own needs - if going to fine-tune, give me the components that's it, I don't have to solve the laws and your complex forms, it's clear I typically need either to fine-tune or run it, not read your interesting cards with download buttons maybe and many parameters not available for search.
 
 (I leave this here, I hope later we have good sources and PyTorch support)
+
+It's still on track with it's favourite products: I looked inside, there is tensorflow code. In the whole book: no tensorflow code. Understand I _did_ select tools.
