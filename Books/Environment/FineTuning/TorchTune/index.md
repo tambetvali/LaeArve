@@ -10,6 +10,23 @@ Well let's see whether it works without introducing the Hugging Face version con
 
 / I don't want to stop before I know an installation, which won't have version conflicts: even if they pack the correct versions into their bundle with built-in python, they would have solved the problem /
 
+## CoPilot for very specific question, again just gave the same answer.
+
+Yes, there are self-contained distributions designed specifically to bypass those dependency headaches. Instead of manually installing the Hugging Face Transformers library and wrestling with its version requirements, you can use tools like PyTorch’s torchtune that come packaged with fixed dependency versions and an integrated CLI. This means you get an environment where the fine-tuning recipes and model downloads are managed internally, so you don’t need to worry about external library conflicts.
+
+For example, torchtune includes built-in commands such as:
+```bash
+tune download meta-llama/Llama-3.2-1B-Instruct --output-dir /tmp/Llama-3.2-1B-Instruct --hf-token <YOUR_TOKEN>
+```
+
+This command downloads one of the supported models directly from Hugging Face, using preconfigured settings that guarantee compatibility with the torchtune framework. The supported model list in torchtune covers many popular LLMs—Llama 2, Llama 3 (in multiple versions), Mistral, Gemma, Phi, Qwen, and more—which makes it a solid alternative if you want to avoid the common version conflicts seen with a more DIY approach.
+
+Additionally, because torchtune can be installed in isolated environments (or even provided as containerized images), you can be sure that all its required libraries (e.g., specific versions of PyTorch, CUDA if needed, etc.) are properly pinned. This encapsulation prevents any clash with your other local installations.
+
+In summary, if you’re looking for a downloadable, self-contained program that lets you download and fine-tune a model (from the torchtune-supported list) without dependency conflicts, torchtune is an excellent candidate to check out. It’s designed to take care of the under-the-hood details, letting you focus directly on model fine-tuning rather than environment management.
+
+If you’re curious about the specifics of the supported models or the available fine-tuning recipes, exploring their cheatsheet and documentation can offer even more insight into how torchtune streamlines the process. You might also look into community discussions and examples on GitHub to see how others are leveraging this tool for various fine-tuning tasks [1](https://gist.github.com/razhangwei/f2841284f876034abe8660779329ac0a) [2](https://pytorch.org/torchtune/stable/api_ref_models.html).
+
 # Old
 
 Our default method perhaps in developer environment, where the user environment might prefer _OpenLLM_. We are scalable about choosing the fine-tuners for different tasks and models.
