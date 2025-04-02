@@ -1,5 +1,7 @@
 # LLM with Smollm
 
+/ currently still does not work but it's closer to idea /
+
 Smollm is especially developed for fine-tuning.
 
 LLM-Smollm: LLM using that functionality.
@@ -8,6 +10,17 @@ LLM-Smollm: LLM using that functionality.
 
 Fine-Tuning Process:
 - llm supports plugins for local models, and some plugins (like llm-smollm2) allow fine-tuning directly.
+
+## What worked
+
+```bash
+pip install llm
+llm install llm-smollm2
+```
+
+> This aligns with my idea that model, once installed in standard way, should be able to download it's files. I'm disturbed that it again needs perceptrons and the package conflict: I don't like to resolve those, because they have a common reason.
+
+## CoPilot
 
 Steps:
 
