@@ -368,6 +368,8 @@ Commentary on Aspiration for the Bardo
 by Chökyi Wangchuk
 translated by Lama Yeshe Gyamtso
 
+__anytree-readthedocs-io-en-2.8.0.pdf__: _Python Tree Data_ __Release 2.8.0__ c0fec0de
+
 __Deep.Learning.for.Coders.with.fastai.and.PyTorch.Howard.Gugger.OReilly.9781492045526.EBooksWorld.ir.pdf__ _Praise for Deep Learning for Coders
 with fastai and PyTorch_ Jeremy Howard &
 Sylvain Gugger
