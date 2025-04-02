@@ -3,8 +3,10 @@
 Complete tool for fine-tuning of models.
 
 - [Axolotl](https://axolotl.ai/)
-- 
+- On Ubuntu, install with nix (`install nix-bin`):
+  - `sudo nix profile install nixpkgs#llama-cpp --extra-experimental-features nix-command --extra-experimental-features flakes`
 
+The Llama.cpp package would convert the result into gguf format.
 
 ## AI
 
