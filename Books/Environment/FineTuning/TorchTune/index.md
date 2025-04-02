@@ -1,5 +1,17 @@
 # TorchTune
 
+Currently, I found this:
+- With "pip install torchtune torchao", install Torch Tune (before you might need to install PyTorch).
+- [Model download manual](https://pytorch.org/torchtune/0.5/tutorials/e2e_flow.html)
+
+So the manual tells the whole story, but I was troubled with Model download.
+
+Well let's see whether it works without introducing the Hugging Face version conflict: a free tool which knows it's own models, would package proper versions along with their software perhaps.
+
+/ I don't want to stop before I know an installation, which won't have version conflicts: even if they pack the correct versions into their bundle with built-in python, they would have solved the problem /
+
+# Old
+
 Our default method perhaps in developer environment, where the user environment might prefer _OpenLLM_. We are scalable about choosing the fine-tuners for different tasks and models.
 
 I prefer __PyTorch__ as it's a standard library: TensorFlow used by HuggingFace is constantly breaking in backwards compability with the books and in future, your own code. We want to use rather what is kind of _settled_, not providing with all kinds of surprise.
@@ -8,6 +20,10 @@ I prefer __PyTorch__ as it's a standard library: TensorFlow used by HuggingFace 
 - _[Welcome to the torchtune Documentation](https://pytorch.org/torchtune/stable/index.html)_
 
 - [torchtune Overview](https://pytorch.org/torchtune/stable/overview.html)
+
+## Task done
+
+Well currently I got, with clear wording, from CoPilot what I wanted, but this was:
 
 Extremely hard to convince CoPilot or ChatGPT I want real download link not some nonsense talk at hugging face cards and their broken-version transformers ..a good old link to just download the tar.gz, not automations and registrations and more libraries ..to just fine-tune with pytorch. I don't understand why they think download links are _useless_ and have this nonsense menthality for providing _advanced_ exception to rules of downloading, as simple as clicking a link and not listing facebook models which want licence clicks.
 
