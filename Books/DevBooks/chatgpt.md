@@ -1,4 +1,4 @@
-# ChatGPT Bot implementation
+# 🤖 ChatGPT Bot implementation
 
 Take this problem: you have a very small bot, and you want to write consistent amounts of code.
 

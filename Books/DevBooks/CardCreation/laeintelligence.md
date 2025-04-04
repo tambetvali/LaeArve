@@ -1,4 +1,4 @@
-# Our Bots
+# 🃏 Our Bots
 
 We define capable bot as such:
 - A bot, which is capable to work with Laegna combinations in equal quality with this proposed bot, even if it's general-intelligence standard bot not specifically aware of Laegna, would be considered either our or third party, free from other properties, _implementation_ in the most direct interface usage of such class definition; that bot would be a _third-party implementation of our standard_ not in causal, but in future and application or purpose-oriented way, much as how an oracle would prevision. You could get particularly good future estimations from AI in some particular fields or periods, and rather better if you do estimable (I tried to translate e-stimulus to e-stimation) work in rather quality criteria. So what is defined here, is _Laegna Assembler Bot_, who needs to learn the decimal capabilities for indexing of Laegna numbers in decimal computer.

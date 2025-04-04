@@ -1,3 +1,3 @@
-# Calculator intelligence
+# ➚ Calculator intelligence
 
 It can and should

@@ -1,4 +1,4 @@
-# Pip & import dependencies
+# 🛫 Pip & import dependencies
 
 Our Project has the following dependencies:
 - Python: The main programming language

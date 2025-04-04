@@ -1,4 +1,4 @@
-# AI training with input functions
+# 🗿 AI training with input functions
 
 a = ai.prompt("Question").
 

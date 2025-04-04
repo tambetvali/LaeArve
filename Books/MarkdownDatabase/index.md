@@ -126,6 +126,10 @@ Prolog followers should be able to be created by Jinja2:
 - This could affect Markdown, Python code etc.
   - This could affect HTML, where the HTML results are also structured and go through additional HTML templates, parsers, syntax highlighters etc.
 
+We consider Prolog rather a complete language, and here our implementation is very small, but Prolog, for example, could be then used to connect a database item in distant server with your corrections to it. This might be your personal database of reflection, in which case we should allow the property "weak" for backlinks: for example, your AI trained at specific field, needs to know the additions in this field to common data; for example, an engineer would add 3d-renderings of pieces for your wood products or additional example code for your applications, reflecting back, but not mentioned by you; this could be their own science and whole scientists, so this adaption of your would be learnt by their own AI, when learning yours: it would add hidden pages to targets.
+
+Whoever is forward-linking to your page, including it in theirs, can freely use your targets: they can add content, which does not come from your friend list, to their reflection.
+
 ## AI
 
 AI would be able to follow the Text, Code and Prolog, and for example each of them gets many examples about how to translate it into Q&A card, or Q&A&D (when context is added, it's my own acronym for Question-Answer-Documentation, where I did not see another one; another one, perhaps later I adapt).

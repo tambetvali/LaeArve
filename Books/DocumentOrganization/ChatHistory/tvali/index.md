@@ -1,3 +1,12 @@
+# 🧠 Feedback of chat histories
+
+We should take the chat histories of our bot, convert into documentation and Q&A formats, summarize and do the other operations, and finally use it in their documentation and fine-tuning source.
+
+There should be ways to edit this and to fix it, which should look like this:
+- Upload your chat history to server, which might be your personal protected space somewhere or flask running privately in your computer, but it might be GitHub Hub.
+- Processing scripts would work on it, giving it some time to be perceived.
+- You would take the AI's initial answers and fix them based on the result, and write new Q&A cards based on the discussion, or add documents to follow in this context. You can add tags to relate this all: Prolog-syntax of relations are created between discussion, your responses, additional material etc.; as this can get complex, the allowed relations in your system are converted to more standard Prolog; given that the Prolog is compatible to actual implementation, you would also include the interlogic in your prolog. Where it's rather correct is the database: you can relate items in your databases based on Prolog, and use chapters, which generate Prolog queries to list the content from other pages: Markdown chapters would be copied based on Prolog output, or you would do it yourself.
+
 # Tvali
 
 Tvali is my username and I contain my important chat histories here.

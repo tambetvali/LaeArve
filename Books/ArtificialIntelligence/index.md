@@ -1,4 +1,4 @@
-# Laegna A.I.
+# ♗ Laegna A.I.
 
 ## Open Database
 

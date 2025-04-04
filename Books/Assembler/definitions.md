@@ -1,4 +1,4 @@
-# Exists duality: header and definitions. Let's call them _term_ and _definitions_.
+# 📰 Exists duality: header and definitions. Let's call them _term_ and _definitions_.
 
 Notice: spacing is important in terminology, for example still use "a<\b" and "a \< b", but not "a <\b" in operations.
 
@@ -15,12 +15,12 @@ Number 0 to 3 has two bits, called _Dene counterparts_ of _Dens_:
 - Other can be read forwards and read backwards.
 - Either you keep each block in linear cycle until there is fit, or you run each back-directed expression backwards, switching left and right part of the calculation.
 
-trm test(fun):
+trm test(fun): # 📖
   pass # this is typical term def.
 
 Here you can define the code, which: if fit with it's non-error condition of variables, fit in IO, for example same lines in same order having same variable names are recognized in code, this must generalize an aspect of this into a term or definition, which is seen to be executed where the lines fit.
 
-def test(fun):
+def test(fun): # 📓
   pass # this is typical function
 
 def <\test(fun): pass this is backwards function

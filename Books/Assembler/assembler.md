@@ -1,4 +1,4 @@
-# Assembler
+# ☯ Assembler
 
 __TODO__ (this rather _is_ TODO, where this dict list might contain just lists like such): Folders, which contain same-named md file, will be linked to that file, which has _higher priotity for user_, and _lower priority_ for program, appearing "vice versa" to their vocabulary. I add "tag" on special line: if not processed, it appears as text to your DHTML, but Markdown should not remove this and Json has all the tags added.
 __Tag__: checkbox("Done", not @todo).

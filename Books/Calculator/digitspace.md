@@ -1,4 +1,4 @@
-# Digit Space
+# ➰ Digit Space
 
 I think we leave the digit space to calculator - it will do this operation on trivia basis, with very simple numbers, which might not be even Laegna numbers yet; perhaps it's using the computer's native data types in it's implementation, where upper types are to be built on.
 
