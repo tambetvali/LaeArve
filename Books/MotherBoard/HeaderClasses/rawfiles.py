@@ -63,11 +63,28 @@ class RawNodeDirectory:
                                     self.types[extension].filename)
         return None
 
+class RawDirectoryOrganizer:
+    def __init__(self):
+        self.directories = {}
+    
+    def getDirectory(self, dir, parent = None, root = None):
+        if dir in self.directories:
+            # TODO: just some condition is checked here, but it should statistically
+            #       give an error.
+            if dir.parent != parent and parent != None: Exception("Parent is not correct")
+            if dir.root != root and root != None: Exception("Root is not correct")
+            return self.directories[dir]
+        
+        self.directories[dir] = RawDirectory(dir, parent, root)
+
+dirOrgan = RawDirectoryOrganizer()
+
 # The class RawDirectory is a lazy loader of directory nodes from filesystem tree.
 
 # Let's call low-lever Folders Directories, where dir reminds of direction.
 class RawDirectory:
     def __init__(self, dir, parent = None, root = None):
+        # TODO: check it's created inside dirOrgan.
         print("Raw reading: ", dir)
         self.dir = dir
         self.root = root
@@ -142,9 +159,11 @@ class RawDirectory:
 # Input is RawDirectory; notice that this smashes any kind of lazy loading of file names,
 # because in this implementation we won't optimize: we should get the whole system
 # without premature optimizations, where we are _not_ mature.
+# TODO: in future versions, it could boost by keeping it in DB, but then it must be
+# aware of the changes.
 class ReProjectorHelper:
     def __init__(self, dir):
-        self.findTreeNodes(dir)
+        self.findTreeNodes(dirOrgan.getDirectory(dir))
         self.treePosition = "CommonBranch"
 
     def checkTreeNode(self, dir):
@@ -169,7 +188,7 @@ class ReProjectorHelper:
     def findTreeNodes(self, dir):
         self.checkTreeNode(dir)
         for node in dir:
-            self.findTreeNodes(dir)
+            self.findTreeNodes(node)
 
 #
 # === Base Class:
@@ -237,10 +256,10 @@ class RawFolder:
     def __init__(self, dir):
         self.dir = dir
         self.contain = False
-        rdir = RawDirectory(dir)
+        rdir = dirOrgan.getDirectory(dir)
 
     def buildDir(self, dir):
-        rdir = RawDirectory(dir)
+        rdir = dirOrgan.getDirectory(dir)
         for filename in rdir.nodes():
             self.nodes[filename] = { "node": rdir._nodes[filename] }
 
