@@ -1,4 +1,4 @@
-# Laegna Fantasy 2
+# 🏇 Laegna Fantasy 2
 
 Because we want to convert existing math cards in Fantasy 1, we did not do this already.
 

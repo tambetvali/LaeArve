@@ -1,4 +1,4 @@
-# Microbot documentation
+# 🔬 Microbot documentation
 
 Our system, Laegna Math Website with Server, Client in Browser, and Math library implementing our own Laegna Mathematics.
 

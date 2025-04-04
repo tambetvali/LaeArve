@@ -1,4 +1,4 @@
-# Folders and Chapters
+# 🗒 Folders and Chapters
 
 We read both md files and folders in common sequence, where one can link to the other.
 - md file can have _headers_, which contain the "hidden" (in DHTML, not in Json source) property: __folder__: follow <foldername>. This means, folders are _Nested Documents_, which unlike _Subdocuments_, which create a given link rather to current position, they come _after_ all titles at the same level and their subtitles are included, but including the time-call-backs of folders, which are meant for properly future-seeing logic, where future is directed in "time" backwards, but it's so easy to catch this time inside a _closed system_ like a static view within it's static properties.

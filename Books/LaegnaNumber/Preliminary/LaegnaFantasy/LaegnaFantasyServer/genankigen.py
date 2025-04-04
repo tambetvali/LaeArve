@@ -1,3 +1,4 @@
+# = 🍓 Study card extractor
 #
 # This is the Chat-GPT-generated code to use genanki to parse Markdown
 # into study cards to your AI and to have nice interface to study them

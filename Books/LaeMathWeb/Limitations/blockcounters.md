@@ -1,4 +1,4 @@
-# Block counters
+# 🗑 Block counters
 
 ## Block Counters
 

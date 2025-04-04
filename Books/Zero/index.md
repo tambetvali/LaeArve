@@ -1,4 +1,4 @@
-# Zero
+# 👾 Zero
 
 In Laegna we have U, and it's often considered to cover half of A and half of O, being their probability function (50% both). In half octaves down, it's the actual, kind of unknown - as it must be measured in lower frequency, where frequency has scale in time and space: in time, lower frequency is _worse_ or not Position, whereas in Space it's only _smaller_, as those relations do not have the Truth Value.
 

@@ -1,4 +1,4 @@
-# The Centryfugal Effect
+# 💦 The Centryfugal Effect
 
 Internet, despite designed to be non-localized, free and open source approach, can become a network of _centralized providers_. While we like provision, we need our visions.
 

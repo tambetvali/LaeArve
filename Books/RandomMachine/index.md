@@ -1,4 +1,4 @@
-# Detecting random algorithms
+# 🔮 Detecting random algorithms
 
 Laegna Bot should work on Laegna number basis, which means that it uses base-4, base-6 and base-2 numbers, at least, at proper alignment.
 

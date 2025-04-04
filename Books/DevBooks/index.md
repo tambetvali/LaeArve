@@ -80,7 +80,7 @@ And download Windsurf: while you might get a trial of code editing, you get more
 
 In VsCode, also, add my GitHub page of bot, and you get a conversational interface in each case; able to create you most interface code by docs probably, but not all content code - I want to basically implement some numbers.
 
-Create Notion.so page and Zapir account to test a bot on it; you get some experience but the bot will run out of trial time unless you pay. Notion.so has some space for limited set of documentation, and intially it has some bot, with renewed time probably sometimes.
+Create Notion.so page and Zapir account to test aThe_Ultimate_Guide_to_Fine-Tuning_LLMs_from_Basics.pdf bot on it; you get some experience but the bot will run out of trial time unless you pay. Notion.so has some space for limited set of documentation, and intially it has some bot, with renewed time probably sometimes.
 - Give the Link to Laegna Notion.so collection as you create one chatbot "Elise and Daisy chat" where you intruct the bot to express only things it can scientifically confirm, in direct assertions, and the rest in choice of same-meaning words, intonations and poetic speak to express "it's intuitions".
 
 There are not many free tools for that, so you can consider the trials and probably use the products somewhere in the office conditions.
@@ -357,6 +357,12 @@ I had long list of files, but the problem - it would do embeddings for weeks and
 __AI_FreeBook.pdf__: _Explorations in Artificial
 Intelligence and Machine
 Learning_ CRC Press Taylor & Francis Group
+
+__The_Ultimate_Guide_to_Fine-Tuning_LLMs_from_Basics.pdf__: _The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of
+Technologies, Research, Best Practices, Applied Research Challenges and Opportunities_
+(__Version 1.0__)
+
+__Predibase_Fine-Tuning_LLMs_ebook_.pdf__: _The Definitive Guide to Fine-Tuning LLMs_ insights for tackling the 4 biggest challenges of fine-tuning ___-- Predibase___
 
 __AI-with-Python.pdf__ _Artificial Intelligence with Python_ Your complete guide to building intelligent apps using
 Python 3.x and TensorFlow 2

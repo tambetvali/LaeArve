@@ -1,4 +1,4 @@
-# Here comes the more fundamental structure of Laegna numbers
+# ∞ Here comes the more fundamental structure of Laegna numbers
 
 It's often represented in decimal system, being rather system-invariant and conditioned implementation of system basis.
 

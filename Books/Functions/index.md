@@ -1,4 +1,4 @@
-# Main functions are point, vector and matrix.
+# ƛ Main functions are point, vector and matrix.
 
 Our numbers kind of represent points, because they are represented in two-dimensional space with additional, frequential dimension - source of multiple parallel dimensions; which are parallel in sense that we use equally positioned numbers for each frequency, and dimension(s) because they are countable in that direction, and different by apparent laws, interacting with each other and having fundamental properties: in Fourier Diagram, where two-dimensional image is used to represent frequencies inherent in numbers, since they can give closest results to straight line in given dimension.
 

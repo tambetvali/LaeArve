@@ -1,4 +1,4 @@
-# The Laegna Fantasy contains complete Flask Server, which outputs
+# ☕ The Laegna Fantasy contains complete Flask Server, which outputs
 
 The server has /Preliminary/LaegnaFantasy/ in it's address, which is the book name: it might seem like it reflects some part of the site.
 

@@ -1,4 +1,4 @@
-# Laegna Fantasy
+# 🥜 Laegna Fantasy
 
 - Convert Decimal numbers to Frequential Decimal Systems in 10 minutes.
 - Create Flask Server in other 20 minutes.

@@ -1,4 +1,4 @@
-# Motherboard Architecture
+# 🖼 Motherboard Architecture
 
 This is the explanation about how to parse file trees:
 

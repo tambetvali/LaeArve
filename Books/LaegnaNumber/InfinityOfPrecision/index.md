@@ -1,4 +1,4 @@
-# Infinity of Precision
+# ∙ Infinity of Precision
 
 ## Cycular Infinities
 

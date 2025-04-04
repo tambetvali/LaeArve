@@ -1,4 +1,4 @@
-# Functionality of Spider
+# 🕷 Functionality of Spider
 
 ## Initial functionality
 

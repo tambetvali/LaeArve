@@ -1,4 +1,4 @@
-# Database
+# 🗃 Database
 
 Let's create a simple Markdown database, associated with each file.
 
