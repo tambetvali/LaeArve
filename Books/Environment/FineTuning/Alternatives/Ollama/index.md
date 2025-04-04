@@ -1,3 +1,7 @@
+# Wrong
+
+CoPilot was wrong: it does *not* support fine-tuning in this sense, but rather creation of characters, so I move it to "alternatives" where it's rather an alternative activity, and seek more for the ones which meet my criteria of simplicity.
+
 # Ollama
 
 You can download Ollama to fine-tune your models.
