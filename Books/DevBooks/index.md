@@ -364,6 +364,31 @@ Technologies, Research, Best Practices, Applied Research Challenges and Opportun
 
 __Predibase_Fine-Tuning_LLMs_ebook_.pdf__: _The Definitive Guide to Fine-Tuning LLMs_ insights for tackling the 4 biggest challenges of fine-tuning ___-- Predibase___
 
+__HandsonMachine-Learning-with-Scikit-2E -1.pdf__: O'REILLY' _Hands-on Machine Learning with
+Scikit-Learn, Keras, and TensorFlow_
+Concepts, Tools, and Techniques to
+Build Intelligent Systems __SECOND EDITION__
+
+__flask.pdf__: _LEARNING Flask_
+
+__ExploreFlask.pdf__: _Explore Flask Documentation_
+__Release 1.0__
+Robert Picard
+
+__pdfcoffee.com_jinja-docs-pdf-free.pdf__: _Jinja2 Documentation_ __Release 2.7.2__ January 10, 2014
+
+__ISLR Seventh Printing.pdf__: _An Introduction to Statistical Learning_ with Applications in R __SPRINGER__
+
+__Natural Language Processing.pdf__: _Natural Language Processing_
+Jacob Eisenstein
+__June 1, 201__
+
+__neuralnetworksanddeeplearning.pdf__: _Neural Networks and Deep Learning_
+Michael Nielsen
+
+__Witten_and_Frank_DataMining_Weka_2nd_Ed_2005.pdf__ _Data Mining_
+Practical Machine Learning Tools and Techniques
+
 __AI-with-Python.pdf__ _Artificial Intelligence with Python_ Your complete guide to building intelligent apps using
 Python 3.x and TensorFlow 2
 

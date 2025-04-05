@@ -31,11 +31,7 @@
 <div class="container-table">
     <table style="width:100%; table-layout:auto;">
 <tr>
-<td style="height: 1em;">
-
-{{ header }}
-
-</td>
+<td style="height: 1em;">{{ header }}</td>
 </tr>
 <tr>
 <td style="vertical-align: top;">

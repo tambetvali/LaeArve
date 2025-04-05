@@ -22,7 +22,7 @@ subpages = [Subpage("Documents", "Hack around here."),
 
 @app.route("/")
 def index():
-    return render_template("index.html", subpages=subpages)
+    return render_template("Temple/Flask/index.html", subpages=subpages)
 
 @app.route("/<name>")
 def subpage(name):
