@@ -18,6 +18,10 @@ This task should be so simple that an AI like ChatGPT should be able to reproduc
 
 <big><big><big>[ENTER =>](#introduction)</big></big></big>
 
+## Philosophy and list of subprojects
+
+<big><big><big>[INSPECT =>](README2.md)</big></big></big>
+
 # Independent contributors
 
 _If you think you want finished work rather than work-in-process, read the last section of this page.

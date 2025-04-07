@@ -1,6 +1,6 @@
-# AI database
+# 🔼 AI database
 
-An additional development server is an "AI". Normally, one would commit to Flask and an AI at the same time, but might include different content: AI's, and there are different AI databases, different scopes and versions of the same data.
+An additional development server is an "AI"; a server, which collects tasks for the AI. Normally, one would commit to Flask and an AI at the same time, but might include different content: AI's, and there are different AI databases, different scopes and versions of the same data.
 
 I think the data could go into:
 - Collections
