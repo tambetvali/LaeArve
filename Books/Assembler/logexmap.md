@@ -146,3 +146,36 @@ if (s)typ == "Banana":
 A is here conditioned by value, which exists in value space s. When a is changing it's type, at the same time conditional time is passing in s, and the logical value is dependent on the value of s: optimizer would rather collect values, which are invariant to this conversion, where they keep together a constant space.
 
 If type has been changed, last t, which is the previous value of s, could be checked - I cannot ensure every language allows to write it in this way, but lets assume t is watched for each change and relevant functions do all their work; for example, they finish by creating a line in the log file or other side-effect: this side-effect would be fed back, and the consistency would break if the parts are not executed in order.
+
+Class: this is the case of form (a)b, where b belongs to value space a: it's of class a, and following execution would be allowed:
+
+(s)a => a.f(x):
+  return x * 2
+
+This means, if a is mapped to space s, if has function f, such that f * 2 is returned.
+
+# Imperative and Logical variables
+
+Imperative variable, such as selection of branch for logical variable:
+- Only one value can be assigned at given moment.
+- When changed, especially in imperative (ending with "!") sentence, it would change the space behind each mention: each sentence, where it's mentioned, is now a new sentence with a new value.
+
+Logical value can be assigned many values, which should not have contradiction:
+
+Test(@a) = 4
+
+This would set value of @a into function Test call on it gives 4, while the function itself would have the same value as before.
+
+Test(@4) = 5
+
+This would set the symbolic value for each value 4.
+
+"@" refers to value, which is assigned to, if not trivial; "%" to variable, which is iterating over values and keys of a class with key%n or val%n, where before "%" sign calls back to container, which is always kept close unless the variable is reassigned, where container has those subvalues defined. Container also behaves as a table, where variable behaves as a row or table of values when assessed by SQL: I think inline SQL-like syntax could be optionally enabled, but also [x, y]z could be used to access dimensions x and y, where z resides, where they could have same name with class constants to enable use of pages when it's not referred. "&" refers to container object: instance and class could be changed; "*" would remove such association and create a static instance to some state. "$" or "variable" sign refers to Symbolic Variable: each value, which is assigned, can only hold in symbolic space.
+
+Test($a) = 4
+
+This would mean that any value, which can be assigned to a, would symbolically refer to 4, and this reflects changes in a variable map if it's created in condition to an imperative map.
+
+### Additional imperative elements
+
+We allow creation of operators, and thus we order them one after another in sentence.
