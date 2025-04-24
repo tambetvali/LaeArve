@@ -82,7 +82,7 @@ My new mathematics is about:
 - Much more...
 
 Main Theorems of Infinity (/of Infinities and Zeroes):
-- [_Short AI Study Card_ or **Your Initial Reference for Programmers**](https://github.com/tambetvali/LaeArve/blob/main/MDLaeMath/MDLaeTheories/theorems.md) **Use this as Introduction to Infinities**
+- [_Short AI Study Card_ or **Your Initial Reference for Programmers**](Books/Reflector/MDMicrobot) **Use this as Introduction to Infinities**
 - [_AI study book_ or **Your Reference for Programmers**](https://github.com/tambetvali/LaeArve/blob/main/MDLaeMath/MDLaeTheories/index.md) **Use this as deeper introduction to Infinities**
 - [Theorems at **Notion.so Documentation**, a _Standard AI Reference Format_](https://www.notion.so/Laegna-1a575bfc115480a38129e9a9787ab565#1ac75bfc1154809b8037da3fbfaaf000) **Use this as Introduction to Infinities in scope of my theory**
 - [Theorems and intuitive theorems at _Spireason_ in PDF format - your **Spiritual Guidebook** in _PDF_ to [**mental infinities**](https://spireason.neocities.org/Simply%20about%20Infinities.pdf)
