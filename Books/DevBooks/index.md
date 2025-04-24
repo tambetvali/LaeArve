@@ -515,6 +515,14 @@ __mistune-lepture-com-en-v0.8.4.pdf__: mistune Documentation
 Release 0.8.4
 Hsiaoming Yang
 
+__tatsu-readthedocs-io-en-stable.pdf__: _TatSu Documentation_
+__Release 5.13.1b1__
+Juancarlo Añez
+
+__agda-readthedocs-io-en-v2.6.2.1.pdf__: _Agda User Manual_
+__Release 2.6.2.1__
+The Agda Team
+
 # Additional books
 
 Some repeat: you can read them yourself.
