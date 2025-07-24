@@ -26,7 +26,7 @@ This task should be so simple that an AI like ChatGPT should be able to reproduc
 
 # Independent contributors
 
-_If you think you want finished work rather than work-in-process, read the last section of this page.
+_If you think you want finished work rather than work-in-process, read the last section of this page._
 
 Notice our Licence: [Creative Commons ??? 4.0](README3.md).
 
@@ -85,7 +85,7 @@ My new mathematics is about:
 
 Main Theorems of Infinity (/of Infinities and Zeroes):
 - [_Short AI Study Card_ or **Your Initial Reference for Programmers**](Books/Reflector/MDMicrobot) **Use this as Introduction to Infinities**
-- [_AI study book_ or **Your Reference for Programmers**](https://github.com/tambetvali/LaeArve/blob/main/MDLaeMath/MDLaeTheories/index.md) **Use this as deeper introduction to Infinities**
+- [_AI study book_ or **Your Reference for Programmers**](LaeArve/MDLaeMath/MDLaeTheories/index.md) **Use this as deeper introduction to Infinities**
 - [Theorems at **Notion.so Documentation**, a _Standard AI Reference Format_](https://www.notion.so/Laegna-1a575bfc115480a38129e9a9787ab565#1ac75bfc1154809b8037da3fbfaaf000) **Use this as Introduction to Infinities in scope of my theory**
 - [Theorems and intuitive theorems at _Spireason_ in PDF format - your **Spiritual Guidebook** in _PDF_ to [**mental infinities**](https://spireason.neocities.org/Simply%20about%20Infinities.pdf)
 - In this GitHub, History/Books, you find also some 50 and 100 page materials, which also include theorems and related materials, but for spiritual-materialist religious-scientific Computer Programmers; for other use, such as spiritual, materialist, religious or scientific use, you need to develop a more refined, dogmatic system.
