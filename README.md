@@ -4,6 +4,8 @@ license: cc-by-nc-sa-4.0
 
 [cc-by-nc-sa-4.0](/README3.md)
 
+https://poe.com/tambetvali - artificial intelligence bots for a very vague introduction to some of the ideas here.
+
 # Laegna Fantasy: Laegna Math Website
 
 This is one simple product, which conveys the whole meaning of Laegna Math Website into a single, simple expression: convert Decimal numbers to their Frequential counterparts and generate AI study cards using Free Software.
