@@ -92,6 +92,7 @@ Main Theorems of Infinity (/of Infinities and Zeroes):
 - [Study Book for Programmers 1, Laegna Mission for Programmers, 50 pg.](https://github.com/tambetvali/LaeArve/tree/main/History/Laegna/Books/Book1Mission): **Use this to Dive Into Laegna Programming**
 - [Study Book for Programmers 2, Matters of Laegna Programming, 100 pg.](https://github.com/tambetvali/LaeArve/tree/main/History/Laegna/Books/Book2ProgrammingMatters) **Use this to Dive Into Laegna Programming**
 - [Two Articles from Spireason in AI-available format](https://github.com/tambetvali/LaeArve/tree/main/History/Laegna/Books/ArticlesSpireason) **Use this for some Spiritual and Material background**
+- [Infinity Theorems](https://github.com/tambetvali/LaeSpiEssentialTheorems)
 
 My approach to explain through different aspects, wordings, paradigms, should simplify the understanding: Especially for AI, which can analyze each approach to reach understanding of the Theory.
 
