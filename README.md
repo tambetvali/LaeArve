@@ -4,6 +4,8 @@ license: cc-by-nc-sa-4.0
 
 [cc-by-nc-sa-4.0](/README3.md) - [Fractal of Theories](fractaloftheories.md) is an introduction to replicate my theories into a fractal of different paradigms and interpretations, or as support of derived and updated work. You are welcome to participiate in the process.
 
+[Call to Cooperate](https://call-to-cooperate-ta-lunq.bolt.host/): you can help projects in these hosts very much.
+
 https://poe.com/tambetvali - artificial intelligence bots for a very vague introduction to some of the ideas here.
 
 # Laegna Fantasy: Laegna Math Website
