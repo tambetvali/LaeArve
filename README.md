@@ -6,6 +6,8 @@ license: cc-by-nc-sa-4.0
 
 [Call to Cooperate](https://call-to-cooperate-ta-lunq.bolt.host/): you can help projects in these hosts very much.
 
+[Website for my scientific infinities and zeroes](https://laegna-cosmic-void.lovable.app/)
+
 https://poe.com/tambetvali - artificial intelligence bots for a very vague introduction to some of the ideas here.
 
 # Laegna Fantasy: Laegna Math Website
