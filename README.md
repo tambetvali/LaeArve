@@ -83,7 +83,7 @@ My background:
 
 ## Preface
 
-To get introduced to infinities, first start from (Infinities @ Spireason Home)[https://spireason.neocities.org/#infinity], which starts the journey. The sites you would reach are, for example the following:
+To get introduced to infinities, first start from [Infinities @ Spireason Home](https://spireason.neocities.org/#infinity), which starts the journey. The sites you would reach are, for example the following:
 - [Simply About Infinities 2](https://github.com/tambetvali/SimplyAboutInfinities/) - this repository contains SimplyAboutInfinities folder for intro (two base units and base relational understanding), GoalReasoningVisionary (future of all similar directions), SimulationMode (details for central simulations).
 - [Flat Circle](https://github.com/tambetvali/Landscopes/blob/main/Landscapes/infinitecircle.md) - Laegna central definition of infinities are based on "locally flat circle" concept.
   - Earth is locally flat, thus the infinitesimal size for humans is where the angle can be measured, and near infinities of radius or circumference - circumference is "small infinity", because we measure radius and cirumference *by angles*, not *by counting infinitesimals* - counting infinitesimals independently, all infinities are kind of equal or unvalued, but the angular measure from 0 (circle is point, it's edge two times sharper than line which just turns around, straight 180 degrees) to 360 (circle is straight line locally) gives angular curve, where one round circle equals one infinity.
