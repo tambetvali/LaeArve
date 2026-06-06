@@ -102,6 +102,23 @@ Why it gets accelerating?
     - This exponent is not syntactic, but a hidden quality of this system: if each member of infinity is moving 1 mp/h, then whole infinity is moving 1 mp/h but in accelerative scale.
       - [Simulation Mode](https://github.com/tambetvali/SimplyAboutInfinities/tree/main/SimulationMode) is a start-up document to learn about exponential scale, as log->lin->exp common scaler is explained.
 
+How to think about Laegna Infinities using Hlibert's external spaces?
+- Hilbert's external spaces measure angles beyond inner system, to external system.
+- Angles towards inner system are eucleidic, and both Laegna and Hilbert measure them equally.
+- Angles towards external system, the infinite context, are eucleidic only internally (a philosophical term), but not in their relation to local spaces:
+  - In Hilbert math, one can see external angles open in each direction of the open field.
+  - "Externality" is metaphysical: their directions point exactly to philosophical concept of "external", compared to these digits.
+  - For example, if heat vibration is internal, diffusion could be external.
+  - If we use length as measurement, internal and external space have equal space:
+    - If we use *angular system* as measured, and Laegna infinities are *measured because they are measured by angles*, we can see:
+      - Those angles given by hilbert map to infinity, the external angles appear towards infinity and not locally.
+      - Thus, we can look Hilbert's additional point angles as *pointing towards distances to infinity*, but *divided by infinity in their magnitude*, which means:
+        - Direction is preserved and angle can be used to measure target distance - as angle turns outwards, it can only close circles towards specific distances to infinity.
+        - Distance is divided by infinity, growing from 1 to 2 where it would otherwise grow from 1 to infinity.
+        - Thus, it can be directly mapped to Infinity angles in Laegna:
+          - Each external step is one step towards specific point in infinity.
+          - Because of hologram projection, any angle or more deeply (and harder to see and use) any machine which leads to change in angle, can be reprojected down by exactly one octave where it yields copy of itself. Thus, altough Laegna infinities are internally somewhat non-linear, the linear result will be given - if in external space, the machine would be broken in 1.5 wave seconds for example, 90 degrees inside exterior angle if all the thing is 360 degrees from in to out, while the machine breaks in the same instance (1.5 seconds), really what would happen in infinity: first second goes really fast, but in most calculations into cycle, but the center of second one would be center of infinity, thus center of it's external infinity: the machine, indeed, would break halfway to infinity, altough it could take long for it to slowly get tired, depending on exact meanings!
+
 ## Introduction
 
 My new mathematics is about:
