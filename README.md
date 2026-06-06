@@ -22,6 +22,8 @@ This task should be so simple that an AI like ChatGPT should be able to reproduc
 
 ## Theory of Infinities
 
+<big><big><big>[CONTEMPLATE =>](#preface)</big></big></big>
+
 <big><big><big>[ENTER =>](#introduction)</big></big></big>
 
 ## Philosophy and list of subprojects
@@ -78,6 +80,14 @@ My background:
   - Does and does not believe in God.
 - Autist Savant for Mathematical Systems and Emotional Networks / Social Structures
   - Savant is like a person with superpowers or "Special Abilities", where you can ask chatgpt about this.
+
+## Preface
+
+To get introduced to infinities, first start from (Infinities @ Spireason Home)[https://spireason.neocities.org/#infinity], which starts the journey. The sites you would reach are, for example the following:
+- (https://github.com/tambetvali/SimplyAboutInfinities/)[Simply About Infinities 2] - this repository contains SimplyAboutInfinities folder for intro (two base units and base relational understanding), GoalReasoningVisionary (future of all similar directions), SimulationMode (details for central simulations).
+- (Flat Circle)[https://github.com/tambetvali/Landscopes/blob/main/Landscapes/infinitecircle.md] - Laegna central definition of infinities are based on "locally flat circle" concept.
+  - Earth is locally flat, thus the infinitesimal size for humans is where the angle can be measured, and near infinities of radius or circumference - circumference is "small infinity", because we measure radius and cirumference *by angles*, not *by counting infinitesimals* - counting infinitesimals independently, all infinities are kind of equal or unvalued, but the angular measure from 0 (circle is point, it's edge two times sharper than line which just turns around, straight 180 degrees) to 360 (circle is straight line locally) gives angular curve, where one round circle equals one infinity.
+  - If Earth would be flat not only for humans, but for ships and any body which is still in linear scope (smaller than infinity) - we would see the radius would be real infinity in our terms. As you can find the angle locally, measuring by bigger body or kind of small distance, you can see properties of this infinity: infinitesimal is around few hundred meters large, thus ideal infinity is divided by few hundred meters to get *space-bounded infinity*. Even the single slice IOAE, counting from -2 to 2 or from 0 to 4 (I is contained, 0:1, E is contained, 3:4, thus 0:4 not 1:4 is typical size for this slice) can be infinite: it's infinity made of four discrete numbers if it's defined to cover 360 degrees. Otherwise, infinity would fail as mathematical concept and as discrete, usable abstract measure, not necessarily a "physical quality" of such object, where we would be funnily limited to things we cannot project.
 
 ## Introduction
 
