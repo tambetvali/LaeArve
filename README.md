@@ -1,3 +1,13 @@
+## Theory of Infinities
+
+# [CONTEMPLATE =>](#preface)
+
+# [ENTER =>](#introduction)
+
+## Philosophy and list of subprojects
+
+# [INSPECT =>](README2.md)
+
 ---
 license: cc-by-nc-sa-4.0
 ---
@@ -19,16 +29,6 @@ This is one simple product, which conveys the whole meaning of Laegna Math Websi
 
 This task should be so simple that an AI like ChatGPT should be able to reproduce it, even if not as one piece, then as separate tasks:
 - [Laegna Fantasy Root Folder](History/Laegna/FirstVersions)
-
-## Theory of Infinities
-
-<big><big><big>[CONTEMPLATE =>](#preface)</big></big></big>
-
-<big><big><big>[ENTER =>](#introduction)</big></big></big>
-
-## Philosophy and list of subprojects
-
-<big><big><big>[INSPECT =>](README2.md)</big></big></big>
 
 # Independent contributors
 
