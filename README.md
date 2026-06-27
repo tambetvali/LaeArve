@@ -1,3 +1,7 @@
+![LaeArve — Mathematical Landscape of Laegna Sciences](Books/Images/laearve_landscape.png)
+
+<br>
+
 ## Theory of Infinities
 
 # [CONTEMPLATE =>](#preface)
