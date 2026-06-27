@@ -87,6 +87,8 @@ My background:
 
 ## Preface
 
+![LaeArve Infinity Fields — Structured Infinity Geometry](Books/Images/laearve_infinity_fields.png)
+
 To get introduced to infinities, first start from [Infinities @ Spireason Home](https://spireason.neocities.org/#infinity), which starts the journey. The sites you would reach are, for example the following:
 - [Simply About Infinities 2](https://github.com/tambetvali/SimplyAboutInfinities/) - this repository contains SimplyAboutInfinities folder for intro (two base units and base relational understanding), GoalReasoningVisionary (future of all similar directions), SimulationMode (details for central simulations).
 - [Flat Circle](https://github.com/tambetvali/Landscopes/blob/main/Landscapes/infinitecircle.md) - Laegna central definition of infinities are based on "locally flat circle" concept.
@@ -124,6 +126,8 @@ How to think about Laegna Infinities using Hlibert's external spaces?
           - Because of hologram projection, any angle or more deeply (and harder to see and use) any machine which leads to change in angle, can be reprojected down by exactly one octave where it yields copy of itself. Thus, altough Laegna infinities are internally somewhat non-linear, the linear result will be given - if in external space, the machine would be broken in 1.5 wave seconds for example, 90 degrees inside exterior angle if all the thing is 360 degrees from in to out, while the machine breaks in the same instance (1.5 seconds), really what would happen in infinity: first second goes really fast, but in most calculations into cycle, but the center of second one would be center of infinity, thus center of it's external infinity: the machine, indeed, would break halfway to infinity, altough it could take long for it to slowly get tired, depending on exact meanings!
 
 ## Introduction
+
+![LaeArve Infinity Interrelation — Dynamic Infinity Ecosystem](Books/Images/laearve_infinity_interrelation.png)
 
 My new mathematics is about:
 - New Logecs system able to think outside the boundaries of Logic
