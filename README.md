@@ -12,6 +12,13 @@
 
 # [INSPECT =>](README2.md)
 
+## Websites
+
+AI has tried to cover the Laegna's most important repos for now:
+
+# [Logecs Home / Bolt.dev =>](https://laegna-sciences-over-7lsj.bolt.host/#overview)
+# [Logecs Home / Lovable.dev =>](https://laegna-core-universe.lovable.app/)
+
 ---
 license: cc-by-nc-sa-4.0
 ---
