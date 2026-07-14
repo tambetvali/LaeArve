@@ -1,3 +1,5 @@
+![Intro Cover](IntroCover.png)
+
 Here, some images of Laegna ferry, cosmic ship:
 - It appears as many small ships for each life form if they are watched from close, each navigating their small direction.
 - When looking from far, it appears like one big ship, navigating to integral direction of all those small ones - of all life and matter.
@@ -19,8 +21,13 @@ Here, some images of Laegna ferry, cosmic ship:
 ![InfinityWorld](InfinityWorld.png)
 
 ### Laegna Ferry Variants
-**Laegna Ferry (Classic)**  
+**Laegna Ferry (Original background - "classic")**  
 ![LaegnaFerry](LaegnaFerry.png)
+
+<br>
+
+**A vision of infinity**
+![A Vision of Infinity](AVisionOfInfinity.png)
 
 **Laegna Ferry Variant 1**  
 ![LaegnaFerry1](LaegnaFerry1.png)
