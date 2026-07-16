@@ -1,4 +1,12 @@
+# Laegna Ferry
+
+A mathematical, universal coordinate logic in Laegna numeric system is "Laegna Ferry", making up an imaginary story of how to sail with Laegna Math..
+
+<br>
+
 ![Intro Cover](IntroCover.png)
+
+<br>
 
 Here, some images of Laegna ferry, cosmic ship:
 - It appears as many small ships for each life form if they are watched from close, each navigating their small direction.
