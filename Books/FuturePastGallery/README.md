@@ -86,7 +86,7 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 
 <br>
 
-![MagicGarden1](MagicGarden1.jpg)
+![MagicGarden1](MagicGarden1.png)
 
 <br>
 
@@ -94,7 +94,7 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 
 <br>
 
-![MagicGarden1](MagicGarden2.jpg)
+![MagicGarden2](MagicGarden2.png)
 
 <br>
 
@@ -102,7 +102,7 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 
 <br>
 
-![LifeSkies](LifeSkies.jpg)
+![LifeSkies](LifeSkies.png)
 
 <br>
 
