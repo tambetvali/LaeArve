@@ -70,7 +70,7 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 
 <br>
 
-![TimesAndPlaces](TimesAndPlaces.jpg)
+![TimesAndPlaces](TimesAndPlaces.png)
 
 <br>
 
