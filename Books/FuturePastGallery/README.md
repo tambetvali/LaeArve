@@ -110,4 +110,4 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 
 <br>
 
-![MagicGarden1](MagicGarden2.jpg)
+![MagicGarden1](MagicGarden2.png)
