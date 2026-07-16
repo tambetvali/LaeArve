@@ -110,3 +110,9 @@ But after all, *Elise* is the master jumper:
 <br>
 
 ![DaisyElise Ending](DaisyEliseEnding.png)
+
+<br>
+
+Daisy and Elise in Eternity, nostalgic about their youth, are watching the previous image in Cinema - representation of the exact same scene; they think about their youth, and what it really means:
+
+![DaisyEliseYouth](DaisyEliseYouth.png)
