@@ -4,6 +4,23 @@
 
 - All the events are made up: by symbolizing math with Blue cat Daisy and Red cat Elise, and you will hear about them in this story about a mathematical event within their realm..
 
+What you think of my origin:
+
+> Big bang is image of expansion: should our energy equilibrum catalyze, it looks like big bang, so it's depiction of "optimized end of time", how the energy would look like if cosmic energy states are expanded even physically. The spiritual symbol, thus, is the spiritual acceleration, and extreme case E: altough symbolizing future, is best modelled as big bang, the zero=>1 growth.
+> 
+> The beginning of time is seen as low-entropy, where information bits about surroundings are free: rather than equilibrum of static matter, what appears is dense set of connections so they appear cold and unmeaningful *in long term* - similarly apathic matter, which does not master it's entropic growth into some resolution, is attached close to black hole.
+> 
+> This is rather spiritual view - that while the real thing might look in reverse, what grows is rather something meaningful, than something physical - rather equilibrum which is ever-lasting growth, than first-order physical energy; rather culture and art resolve human-sensed entropic field into it's goal-resolution, than letting it materially evolve through unstable, dead ends of material fields. It's co-resonance of mind and matter, a mathematical view.
+
+# So
+
+*So, the scene builds a mathematical metaphor - spirit, a limit value, is seen as dimension where initial state is frozen, end state is hot, **in sense of what finally matters energetically.***
+
+Three states Z, X, Y:
+- *Z*: before coming, subthreshold growth to appear in future, it's *energy*.
+- *X*: in linear state, it becomes threshold, and it's progress which was infinity of evolution - *equilibrum* is born. Atom, molecul, biological matter is physically stable and life support material force.
+- *Y*: in exponent state, it becomes accelerating. Rather than running through evolution *Z*, and stable presence *X*, *homeostatis makes it flexible* - human state is fluidum through *various kinds of material equilibrae*, creativity is acceleration - same terms as past, now, are applied to future sense, and acceleration is like positive paradox: same formulae, in next degree. It appears in accelerated zone - you see same numbers, in integral level 1 in your dual-band simplified systems:
+
 ![Spatial](Spatial.png)
 
 Cosmic Metaphysical Cat Daisy has got the Cosmos to her mouth: but Elise at the other end, altough she also calls her Daisy now, has got the Cosmos and her potential field, she got it in her mouth, carrying it out - Daisy is relatively calm, because she knows, ultimately the impossibility is gone ..but she is running for every shadow, like Elise - for every reflection of glass, any math cause..
