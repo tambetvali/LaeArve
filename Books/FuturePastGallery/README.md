@@ -4,6 +4,8 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 
 # Symmetries and Scales - an introduction
 
+From accelerated space, our could look cool:
+
 <br>
 
 ![SymmetriesAndScales](SymmetriesAndScales.jpg)
@@ -11,6 +13,8 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 <br>
 
 # A Future Woman
+
+Well evolved to the stars..
 
 <br>
 
@@ -20,6 +24,8 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 
 # Random Objects
 
+How it looks from the outside?
+
 <br>
 
 ![RandomObjects](RandomObjects.jpeg)
@@ -27,6 +33,8 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 <br>
 
 # Infinitely Many
+
+And if there are infinitely many, from the outside?
 
 <br>
 
@@ -36,6 +44,8 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 
 # Magic Ball
 
+Is this technology or magic age, experimenting with magic ball:
+
 <br>
 
 ![MagicBallAFutureWoman](MagicBallAFutureWoman.png)
@@ -43,6 +53,8 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 <br>
 
 # Magic Web
+
+Experimenting, perhaps, with the magic web:
 
 <br>
 
@@ -52,6 +64,8 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 
 # Hologram Projective Room
 
+Looking at this whole reality:
+
 <br>
 
 ![AHologramProjectiveRoom](AHologramProjectiveRoom.png)
@@ -59,6 +73,8 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 <br>
 
 # Ball Octaves
+
+Ball is the finite, cube is the infinite:
 
 <br>
 
@@ -68,6 +84,8 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 
 # Times and Places
 
+Ancient, and futuristic:
+
 <br>
 
 ![TimesAndPlaces](TimesAndPlaces.png)
@@ -75,6 +93,8 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 <br>
 
 # Cube Octaves
+
+From outside - cube is the finite, and ball is the infinite:
 
 <br>
 
@@ -84,6 +104,8 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 
 # Magic Garden 1
 
+Listen to birds in the garden.
+
 <br>
 
 ![MagicGarden1](MagicGarden1.png)
@@ -91,6 +113,8 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 <br>
 
 # Magic Garden 2
+
+Meditate and the colors unfold.
 
 <br>
 
@@ -100,6 +124,8 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 
 # Life Skies
 
+Life, in the future, appears in the skies - it appears as the skies.
+
 <br>
 
 ![LifeSkies](LifeSkies.png)
@@ -107,6 +133,8 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 <br>
 
 # Dance in the Future
+
+Humanlike, evolved, simplified:
 
 <br>
 
