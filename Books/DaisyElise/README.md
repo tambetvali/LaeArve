@@ -1,3 +1,7 @@
+![DaisyElise Cover](DaisyEliseCover.png)
+
+<br>
+
 # Story of Elise and Daisy
 
 ![Spatial](SpatialA.png)
@@ -102,3 +106,7 @@ Daisy is philosophical: she is not just a mathematical mistake:
 But after all, *Elise* is the master jumper:
 
 ![Elise Jump to Me](EliseJump.png)
+
+<br>
+
+![DaisyElise Ending](DaisyEliseEnding.png)
