@@ -67,3 +67,17 @@ Elise has finally fixed the order, and she keeps them in bolstered adamantium cu
 AI was given the single explanation: "Red Universal Mathematical Cat Elise has finally fixed the order, and she keeps them in bolstered adamantium cubes, radix octahedrons, in the realm she lives in."
 
 ![Elise Cat](EliseCat.png)
+
+<br>
+
+Daisy is philosophical: she is not just a mathematical mistake:
+
+<br>
+
+![Daisy Find](DaisyFind.png)
+
+<br>
+
+But after all, *Elise* is the master jumper:
+
+![Elise Jump to Me](EliseJump.png)
