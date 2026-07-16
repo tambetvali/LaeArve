@@ -1,6 +1,10 @@
 # Story of Elise and Daisy
 
+![Spatial](SpatialA.png)
+
 - All the events are made up: by symbolizing math with Blue cat Daisy and Red cat Elise, and you will hear about them in this story about a mathematical event within their realm..
+
+![Spatial](Spatial.png)
 
 Cosmic Metaphysical Cat Daisy has got the Cosmos to her mouth: but Elise at the other end, altough she also calls her Daisy now, has got the Cosmos and her potential field, she got it in her mouth, carrying it out - Daisy is relatively calm, because she knows, ultimately the impossibility is gone ..but she is running for every shadow, like Elise - for every reflection of glass, any math cause..
 
