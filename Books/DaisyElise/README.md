@@ -2,6 +2,24 @@
 
 <br>
 
+# Story of Reflection
+
+![Reflect](Reflector.png)
+
+# Story of Thinking
+
+![Think](Think.png)
+
+# Story of Unity
+
+![Unity](Unity.png)
+
+### A story which can foolish you with names given..
+
+# Story of ☯
+
+---
+
 # Story of Elise and Daisy
 
 ![Spatial](SpatialA.png)
