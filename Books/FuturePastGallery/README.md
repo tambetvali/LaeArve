@@ -50,7 +50,7 @@ This is imaginary gallery of times and scopes and spaces, holographic views of w
 
 <br>
 
-# Magic Ball
+# Hologram Projective Room
 
 <br>
 
