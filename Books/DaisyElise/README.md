@@ -1,5 +1,7 @@
 ![DaisyElise Cover](DaisyEliseCover.png)
 
+- [DaisyElise 2](https://github.com/tambetvali/LaeArve/tree/main/Books/DaisyElise2#daisy-superhero): there is also the second part.
+
 <br>
 
 # Story of Reflection
