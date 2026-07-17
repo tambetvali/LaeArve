@@ -64,3 +64,8 @@ Runes awaken, multiply their will.
 
 ![Quantum1](Quantum1.png)
 
+# Dimensions Outwards
+
+And in exponential infinity, they can watch how dimensions grow outwards..
+
+![DimensionsOutwards](DimensionsOutwards.png)
