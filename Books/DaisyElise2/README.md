@@ -50,19 +50,19 @@ So the Quantum Realm is Born;
 
 It's log, as well as reverse quantum exp curve;
 
-![Quantum1](Quantum1.png)
+![Quantum2](Quantum2.png)
 
 # Quantum 3
 
 They write it into the runes;
 
-![Quantum1](Quantum1.png)
+![Quantum3](Quantum3.png)
 
 # Quantum 4
 
 Runes awaken, multiply their will.
 
-![Quantum1](Quantum1.png)
+![Quantum4](Quantum4.png)
 
 # Dimensions Outwards
 
