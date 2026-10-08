@@ -1,3 +1,17 @@
+# Traditional Family: a Royal Family
+
+This manual is useful for understanding 16-gen family models for traditional, aristocrat and "blue blood" families. It could be used by neanthertallean families for tribe-based 16-generational mapping, and by neo-liberal families in class-based structuring and free choice of people. All these are ideally merged as 3 opposites of yinyang symbol.
+
+---
+
+AI web voyage expressing traditional magic, but aligned to modern science in it's expression:
+
+[Made by Lovable AI](https://infinity-loom-explore.lovable.app/) - artistic, creative AI web creator.
+
+[Made by Bolt AI](https://normalized-yggdrasil-vu6l.bolt.host) - formal, intelligent AI web creator.
+
+---
+
 AI art is based on article below:
 - 16 generational family models with 65536 complexity space: 1 order infinity.
 - 16 cause entropy growth + 16 goal entropy reduction on result = 32, symmetric to hilbert's internal and external spaces.
