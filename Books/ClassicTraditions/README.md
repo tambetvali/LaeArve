@@ -1,6 +1,41 @@
+AI art is based on article below:
+- 16 generational family models with 65536 complexity space: 1 order infinity.
+- 16 cause entropy growth + 16 goal entropy reduction on result = 32, symmetric to hilbert's internal and external spaces.
+- Family story of Leonor is abstractionalized and brought into generic, symbolic output model.
+
+This represents abstract 16 gen model in Z (first 400 gen tradition); X (last 400 gen tradition) and Y (future 400 gen tradition).
+
+One can use it as inspiration:
+- How to locate their bloodline, tribe or class in Yggdrasil, related to modern rank, order and degree combinatorics.
+
+Symbolic song
+
+1. Graphic version
+  - https://www.youtube.com/watch?v=bOzTuVXnzj0&list=RDbOzTuVXnzj0&start_radio=1
+  - Ka - Strata
+2. Cinematic version
+  - https://www.youtube.com/watch?v=9J_K_uom8JY
+  - Ka - Strata (Subsurface Rework)
+
+"Ka" is rather egiptian archetype; in ritual a mage would have particular role - "Ka" is a role where, in ritual symbolics, wearing masks and expressing certain immortal role, a thermodynamic corner - here "Ka" would be in roles which represent magic of cycles of family trees, stars and battles. Strata relates to stratosphere, which is not symbolic for layer of athmosphere but rather something, which resembles unity of biosystem as *active, goal-based process* rather than *abstract, physical system* such as athmospheric layer.
+
+---
+
+<br>
+
+<br>
+
 ![](LeonorTree1.png)
 
+<br>
+
+<br>
+
 ![](LeonorTree2.png)
+
+<br>
+
+<br>
 
 CoPilot's description for image for some family trees for princess Leonor:
 
