@@ -37,6 +37,18 @@ Symbolic song
 
 <br>
 
+![](LeonorTree3.png)
+
+<br>
+
+<br>
+
+![](LeonorTree4.png)
+
+<br>
+
+<br>
+
 CoPilot's description for image for some family trees for princess Leonor:
 
 Sacred cosmic illustration, circular mandala composition, enormous luminous Yggdrasil Tree of Life filling the entire image, enclosed within a perfect glowing golden circle.
