@@ -171,3 +171,7 @@ After whole wave:
     - Starts with reflection of next whole in fractal;
       - Then draws the whole in full;
         - From 16 (65536) to 16 * 16 complexity, from 4 to 16, etc., is a linear line to infinity - this rank creates infinity-symmetric wave, and this is in interaction with whether the seed first part of fractal succeeds; if yes, it's that even possibly.
+
+---
+
+***Notice***: holofractal distance is measured by symmetric rank modifiers in uniform directions; and curved space forces relational positions toward beginning, end, etc. The fractal draws waves, and wave corners, octave-rank modifiers in each direction, *replicate slightly scaled copies*; in real hologram they are structurally infinitesimal-away, altough time-directed hologram evolves, structures, has heavy entropy and correction, and so the testimal becomes a metaphor. Here, in structuring this tree, decimal and base-4 or base-2 octave-symmetric ranks are used as appropriate and conventional, and related based on such rules of structural closeness - in fractal, just infinitesimals, basically zero, away thing might be structurally very different and vibrate completely other part of the picture; this also rounds and averages beautifully, so *it can still used approximately*, because of the heavy concentration in surroundings, nature of the curvature.
