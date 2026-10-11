@@ -1,3 +1,35 @@
+# 2D Rank Gallery
+
+Images are artistic and symbolic, rather than exact and literal-particular. They map rank and wave symmetry space with thermodynamic complexities.
+
+Graphics by AI based on document below and short instructions.
+
+Purpose: educational; imagination on symmetries of ranks, scopes, complexity ranks, octaves and infinity powers. Artistic and mathematical: to draw shapes, contrasts, colors in symbolic way.
+
+## 2D Rank System Cover: img. 1
+
+![2DRank1SystemCover](Gfx/2DRank1SystemCover.png)
+
+## 2D Rank img. 2: Rank Wave
+
+![2DRank2Wave](Gfx/2DRank2Wave.png)
+
+## 2D Rank img. 3: Macrooctaves
+
+![2DRank3MacroOctaves](Gfx/2DRank3MacroOctaves.png)
+
+## 2D Rank img. 4: Hologram
+
+![2DRank4Hologram](Gfx/2DRank4Hologram.png)
+
+## 2D Rank img. 5: Macrooctaves 2
+
+![2DRank5MacroOctaves2](Gfx/2DRank5MacroOctaves2.png)
+
+## 2D Rank img. 6: History
+
+![2DRank6History](Gfx/2DRank6History.png)
+
 # 2D analysis of the Rank Structure
 
 In each case:
