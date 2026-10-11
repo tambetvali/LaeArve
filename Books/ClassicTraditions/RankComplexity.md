@@ -8,27 +8,27 @@ Purpose: educational; imagination on symmetries of ranks, scopes, complexity ran
 
 ## 2D Rank System Cover: img. 1
 
-![2DRank1SystemCover](Gfx/2DRank1SystemCover.png)
+![2DRank1SystemCover](Images/2DRank1SystemCover.png)
 
 ## 2D Rank img. 2: Rank Wave
 
-![2DRank2Wave](Gfx/2DRank2Wave.png)
+![2DRank2Wave](Images/2DRank2Wave.png)
 
 ## 2D Rank img. 3: Macrooctaves
 
-![2DRank3MacroOctaves](Gfx/2DRank3MacroOctaves.png)
+![2DRank3MacroOctaves](Images/2DRank3MacroOctaves.png)
 
 ## 2D Rank img. 4: Hologram
 
-![2DRank4Hologram](Gfx/2DRank4Hologram.png)
+![2DRank4Hologram](Images/2DRank4Hologram.png)
 
 ## 2D Rank img. 5: Macrooctaves 2
 
-![2DRank5MacroOctaves2](Gfx/2DRank5MacroOctaves2.png)
+![2DRank5MacroOctaves2](Images/2DRank5MacroOctaves2.png)
 
 ## 2D Rank img. 6: History
 
-![2DRank6History](Gfx/2DRank6History.png)
+![2DRank6History](Images/2DRank6History.png)
 
 # 2D analysis of the Rank Structure
 
