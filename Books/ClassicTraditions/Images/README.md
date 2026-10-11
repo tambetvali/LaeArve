@@ -1,0 +1,1 @@
+For images not to take all space in "book" folder (this is my format for information complexes, rather means "book" in information theoretic terms, information format, than it's size, scope, and format of literal book).
