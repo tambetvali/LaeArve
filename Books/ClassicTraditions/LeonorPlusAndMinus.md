@@ -3,11 +3,19 @@
 Let's say 800 and 1200, years of traditions respecively of current Bourbon and past Habsburgs 1200 years.
 
 Let's put this into rank theory:
-- Rank 1, ***Z***: 20 ⇒ ∓10 years.
-- Rank 2, ***X***: 40 ⇒ ∓20 years.
-- Rank 3, ***Y***: 80 ⇒ ∓40 years.
+- Rank 0, ***ZZ**: 10 ⇒ ∓0.5 years. Nature or first order animal counts in years.
+- Rank 0.5, ***YZ**: 20 ⇒ ∓1 years. Animal or second order animal. For human, some walking etc.
+- Rank 1, ***Z***: 20 ⇒ ∓10 years. Human.
+- Rank 2, ***X***: 40 ⇒ ∓20 years. Adult.
+- Rank 3, ***Y***: 80 ⇒ ∓40 years. Mature.
 - Rank 3.5, *YX*: 120 ⇒ ∓(80 - 20 = 60) years.
   - Because of: Rank 4, **YY** = 160 years or infinity (fractal should project both as two-rank identities, equal).
+- Rank 4, *YX*: 160 ⇒ ∓(80 = 60) years.
+
+These four ranks:
+- Give *spatial*, second order complexities 1, 2, 3: ranks 1, 2, 4.
+- While the number themselves give *temporal*, first order complexities 1, 2, 3, 4, which are *measured* in spatial complexities.
+- ***Higher-order octaves give*** Second-order ranks: octaves (use $y=2^n$ or $y=4^n$ for higher order math), spatial complexities; first-order ranks: frequencies (use $y=n^2$ or $y=n^4$ for one or two bands); numbers inside rank (for 20, for example 10 is inside the octave - 10 spans the "notes")
 
 Let's generalize the rank theory:
 - Rank 1, ***Z***: $2 $r$ ⇒ ∓1r$ years.
